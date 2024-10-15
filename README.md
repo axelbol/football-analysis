@@ -15,7 +15,7 @@ __What can you get from shots_fotmob.ipynb?__
 - xG
 - Shot map
 
-![shotmap](https://github.com/[axelbol]/[football-analysis]/blob/[main]/image.png?raw=true)
+![shotmap](https://github.com/axelbol/football-analysis/blob/main/images/image.png?raw=true)
 
 ## License
 
