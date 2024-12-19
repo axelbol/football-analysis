@@ -24,7 +24,6 @@ Alex Álvarez,py PAR,FW,Sport Luqueño,26,1997,23,12,1109,12.3,3,3,6,3,0,0,3,0,0
 Alfredo Amarilla,py PAR,MF,Tacuary,22,2001,9,6,492,5.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
 Cristian Amarilla,ar ARG,"MF,FW",Sol de América,30,1993,33,22,1852,20.6,4,4,8,4,0,0,3,0,0.19,0.19,0.39,0.19,0.39
 Rodrigo Amarilla,py PAR,MF,Guaraní,24,1999,5,0,96,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Rodrigo Amarilla,py PAR,"MF,FW",Club General Caballero JLM,24,1999,8,5,377,4.2,1,0,1,1,0,1,2,0,0.24,0.00,0.24,0.24,0.24
 Gerardo Amílcar Ortiz,py PAR,GK,Sol de América,34,1989,27,27,2430,27.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Brian Andrada,ar ARG,"MF,FW",Sportivo Trinidense,26,1997,23,14,1162,12.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -50,7 +49,6 @@ Juan Arza,,MF,Nacional,,,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Santiago Arzamendia,py PAR,DF,Cerro Porteño,25,1998,20,19,1713,19.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
 Alcides Ávalos,py PAR,FW,Cerro Porteño,19,2005,1,0,26,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
 Fabio Avalos,py PAR,MF,Nacional,18,2005,2,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Pablo Ayala,py PAR,MF,Club General Caballero JLM,28,1995,38,33,2793,31.0,0,2,2,0,0,0,3,0,0.00,0.06,0.06,0.00,0.06
 Wilson Ayala,py PAR,MF,2 de Mayo,28,1995,36,22,1863,20.7,12,5,17,9,3,3,4,1,0.58,0.24,0.82,0.43,0.68
 Cristhian Báez,py PAR,FW,Club General Caballero JLM,20,2003,15,1,344,3.8,1,0,1,1,0,0,1,0,0.26,0.00,0.26,0.26,0.26
@@ -76,7 +74,6 @@ Víctor Barrios,py PAR,"DF,MF",Sol de América,26,1997,33,29,2413,26.8,0,2,2,0,0
 Juan Bautista Cascini,ar ARG,MF,Sol de América,26,1997,3,2,167,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Nazareno Bazán,ar ARG,FW,Nacional,24,1999,9,6,445,4.9,1,0,1,0,1,1,1,0,0.20,0.00,0.20,0.00,0.00
 Sebastián Bedoya,py PAR,FW,Tacuary,17,2006,5,2,206,2.3,1,0,1,1,0,0,1,0,0.44,0.00,0.44,0.44,0.44
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Ismael Benegas,py PAR,DF,Nacional,36,1987,14,8,846,9.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
 Ismael Benegas,py PAR,DF,Sol de América,36,1987,5,5,388,4.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00
 Alan Benítez,py PAR,DF,Cerro Porteño,30,1994,29,28,2386,26.5,1,3,4,1,0,0,3,0,0.04,0.11,0.15,0.04,0.15
@@ -102,7 +99,6 @@ Orlando Berrío,co COL,"FW,MF",Tacuary,32,1991,16,3,530,5.9,2,0,2,2,0,0,1,1,0.34
 Brian Blasi,ar ARG,DF,Nacional,27,1996,18,15,1239,13.8,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07
 Giovanni Bogado,py PAR,"MF,FW",Sportivo Ameliano,22,2001,18,16,1413,15.7,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00
 Walter Bogado,py PAR,"MF,FW",2 de Mayo,24,1999,12,4,436,4.8,1,0,1,1,0,0,2,0,0.21,0.00,0.21,0.21,0.21
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Julián Bonetto,ar ARG,"MF,FW",Sportivo Trinidense,29,1994,8,3,259,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Mathias Bordón,py PAR,GK,Sol de América,20,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Alex Britez,,MF,Guaraní,,,2,2,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -128,7 +124,6 @@ Marcos Cáceres,py PAR,DF,Tacuary,37,1986,28,28,2395,26.6,1,0,1,1,0,0,6,1,0.04,0
 Matías Cáceres,py PAR,MF,2 de Mayo,27,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Oscar Caceres,,MF,Sport Luqueño,,,5,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Tales Caina Wastowski,br BRA,GK,Club General Caballero JLM,27,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Néstor Camacho,py PAR,"FW,MF",Tacuary,36,1987,31,27,2135,23.7,4,6,10,4,0,0,3,1,0.17,0.25,0.42,0.17,0.42
 Álvaro Campuzano,py PAR,"MF,DF",Libertad,28,1995,21,10,982,10.9,0,1,1,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09
 Pablo Candia,py PAR,DF,2 de Mayo,30,1993,5,0,116,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -154,8 +149,7 @@ Paul Charpentier,ar ARG,FW,Guaraní,23,2000,15,4,512,5.7,2,0,2,2,0,0,2,0,0.35,0.
 Chico,br BRA,FW,Cerro Porteño,28,1995,21,18,1372,15.2,6,2,8,5,1,1,2,0,0.39,0.13,0.52,0.33,0.46
 Diego Churín,ar ARG,FW,Cerro Porteño,34,1989,39,20,1999,22.2,5,1,6,5,0,0,11,0,0.23,0.05,0.27,0.23,0.27
 Walter Clar,py PAR,"DF,MF",Tacuary,29,1994,26,25,2163,24.0,1,2,3,0,1,2,0,0,0.04,0.08,0.12,0.00,0.08
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
-Fredy Colman,,"MF,FW",Olimpia,,,4,3,136,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Fredy Colman,py PAR,"MF,FW",Olimpia,18,2005,4,3,136,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Orlando Colmán,py PAR,"MF,FW",Tacuary,21,2002,24,13,1169,13.0,5,0,5,5,0,0,3,0,0.38,0.00,0.38,0.38,0.38
 Lautaro Comas,ar ARG,"MF,FW",Sport Luqueño,29,1995,32,22,1610,17.9,1,3,4,1,0,0,4,1,0.06,0.17,0.22,0.06,0.22
 Lautaro Comas,ar ARG,FW,Sport Luqueño,29,1995,2,1,101,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -180,7 +174,6 @@ Rodrigo Delvalle,py PAR,DF,Sol de América,22,2001,17,16,1406,15.6,1,0,1,1,0,0,3
 Kevin Denis,ar ARG,MF,Club General Caballero JLM,23,2000,12,1,308,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Bruno Díaz,,MF,Guaraní,,,3,0,113,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
 Estifen Díaz,py PAR,MF,Sportivo Trinidense,18,2005,5,3,222,2.5,0,1,1,0,0,0,0,0,0.00,0.41,0.41,0.00,0.41
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Fernando Díaz,py PAR,DF,Sol de América,22,2001,38,37,3368,37.4,1,0,1,1,0,0,6,0,0.03,0.00,0.03,0.03,0.03
 Leon Diego,py PAR,DF,Cerro Porteño,16,2007,19,18,1640,18.2,2,0,2,2,0,0,2,0,0.11,0.00,0.11,0.11,0.11
 Sergio Dietze,py PAR,FW,Sol de América,26,1997,13,1,248,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
@@ -206,7 +199,6 @@ Pablo Espinoza,py PAR,DF,Tacuary,35,1988,14,5,537,6.0,3,0,3,3,0,0,3,0,0.50,0.00,
 Víctor Ezequiel Salazar,ar ARG,DF,Olimpia,30,1993,4,3,277,3.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Diego Fabián Barreto,py PAR,"MF,FW",Sportivo Ameliano,30,1993,5,4,260,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Gonzalo Falcón,uy URU,GK,Sport Luqueño,27,1996,8,7,668,7.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Alexis Fariña,py PAR,"MF,FW",Cerro Porteño,19,2004,18,6,666,7.4,2,1,3,2,0,0,1,0,0.27,0.14,0.41,0.27,0.41
 Carlos Favero,py PAR,DF,Cerro Porteño,18,2005,2,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Juan Feliú,py PAR,DF,2 de Mayo,22,2001,27,22,1918,21.3,0,0,0,0,0,0,1,2,0.00,0.00,0.00,0.00,0.00
@@ -232,7 +224,6 @@ Alex Franco,py PAR,MF,Olimpia,22,2001,39,33,2639,29.3,2,2,4,2,0,0,8,0,0.07,0.07,
 Alex Franco,py PAR,"MF,DF",2 de Mayo,19,2004,2,2,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Fabián Franco,py PAR,"DF,FW",Nacional,25,1998,15,5,621,6.9,1,1,2,1,0,0,1,0,0.14,0.14,0.29,0.14,0.29
 Fabián Franco,py PAR,"DF,MF",Sportivo Ameliano,25,1998,13,10,824,9.2,1,0,1,1,0,0,3,0,0.11,0.00,0.11,0.11,0.11
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Iván Franco,py PAR,"MF,FW",Libertad,23,2000,27,18,1747,19.4,4,5,9,4,0,0,3,0,0.21,0.26,0.46,0.21,0.46
 Juan Franco,py PAR,"MF,FW",Club General Caballero JLM,21,2002,20,6,727,8.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Junior Franco,py PAR,DF,Tacuary,15,2008,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -258,7 +249,6 @@ Enzo Giménez,py PAR,"MF,DF",Cerro Porteño,25,1998,22,20,1601,17.8,1,1,2,1,0,0,
 Gustavo Giménez,py PAR,DF,Sol de América,36,1987,23,19,1684,18.7,0,1,1,0,0,0,2,0,0.00,0.05,0.05,0.00,0.05
 Juan Giménez,py PAR,MF,Sportivo Ameliano,20,2003,6,2,187,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
 Martin Gimenez,,,Nacional,,,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Néstor Giménez,py PAR,DF,Libertad,26,1997,35,35,2985,33.2,1,1,2,1,0,0,8,1,0.03,0.03,0.06,0.03,0.06
 Osmar Giménez,py PAR,"MF,FW",Club General Caballero JLM,16,2007,16,10,797,8.9,1,1,2,1,0,0,2,0,0.11,0.11,0.23,0.11,0.23
 Alan Gómez,py PAR,MF,Nacional,21,2002,17,9,912,10.1,3,2,5,3,0,0,4,0,0.30,0.20,0.49,0.30,0.49
@@ -284,7 +274,6 @@ Juan Heinze,ar ARG,MF,Club General Caballero JLM,24,1999,2,0,31,0.3,0,0,0,0,0,0,
 Helerson,br BRA,DF,Tacuary,26,1997,25,25,2025,22.5,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04
 Diego Huesca,py PAR,GK,Tacuary,23,2000,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Wilson Ibarrola,py PAR,DF,Guaraní,27,1996,22,10,1062,11.8,0,1,1,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Óscar Guillermo Giménez Irala,py PAR,FW,Sportivo Trinidense,33,1990,30,3,905,10.1,0,2,2,0,0,0,8,0,0.00,0.20,0.20,0.00,0.20
 Juan Iturbe,py PAR,"MF,FW",Cerro Porteño,30,1993,33,20,1740,19.3,6,3,9,6,0,0,3,0,0.31,0.16,0.47,0.31,0.47
 Miguel Jacquet Duarte,py PAR,"DF,MF",Libertad,28,1995,7,5,475,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -310,7 +299,6 @@ Mario López Quintana,py PAR,DF,Guaraní,28,1995,30,28,2499,27.8,0,1,1,0,0,0,7,1
 Juan Luis Alfaro,ar ARG,DF,Nacional,24,1999,30,29,2482,27.6,1,2,3,1,0,0,7,0,0.04,0.07,0.11,0.04,0.11
 José Luis Sinisterra,co COL,FW,Sportivo Trinidense,25,1998,7,4,298,3.3,1,0,1,1,0,0,0,0,0.30,0.00,0.30,0.30,0.30
 Milton Maciel,py PAR,MF,Sportivo Trinidense,24,1999,15,4,499,5.5,1,3,4,1,0,0,1,0,0.18,0.54,0.72,0.18,0.72
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Esteban Maidana,py PAR,"DF,MF",2 de Mayo,24,1999,4,4,263,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Aldo Maíz,py PAR,MF,Sportivo Ameliano,23,2000,30,18,1705,18.9,1,1,2,1,0,0,6,0,0.05,0.05,0.11,0.05,0.11
 Sebastián Maldonado,py PAR,MF,Sport Luqueño,23,2000,7,3,298,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -336,7 +324,6 @@ Marcos Martinich,ar ARG,DF,Sportivo Ameliano,27,1996,14,8,841,9.3,0,0,0,0,0,0,4,
 Sergio Maximiliano Ojeda,ar ARG,DF,Nacional,32,1992,9,8,697,7.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Bernardo Medina,py PAR,GK,Sol de América,36,1988,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Gonzalo Medina,,DF,Guaraní,,,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Gustavo Medina,py PAR,MF,Tacuary,19,2004,4,2,160,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Lorenzo Melgarejo,py PAR,"FW,MF",Libertad,33,1990,24,12,1293,14.4,5,0,5,4,1,2,3,0,0.35,0.00,0.35,0.28,0.28
 Rodrigo Melgarejo,py PAR,DF,Cerro Porteño,21,2002,13,11,870,9.7,0,1,1,0,0,0,1,1,0.00,0.10,0.10,0.00,0.10
@@ -362,7 +349,6 @@ Freddy Noguera,py PAR,FW,Olimpia,20,2004,2,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.0
 Junior Noguera,py PAR,"FW,MF",2 de Mayo,21,2002,20,10,915,10.2,4,0,4,3,1,1,0,0,0.39,0.00,0.39,0.30,0.30
 Alan Núñez,py PAR,DF,Cerro Porteño,19,2004,7,5,455,5.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Claudio Núñez,py PAR,DF,Nacional,28,1995,37,35,3142,34.9,1,0,1,1,0,0,5,0,0.03,0.00,0.03,0.03,0.03
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Cristian Núñez,py PAR,MF,Tacuary,26,1997,5,5,404,4.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Jhosias Nuñez,py PAR,MF,Nacional,15,2008,3,1,48,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Martin Nuñez,py PAR,"MF,FW",Tacuary,22,2001,12,2,411,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -388,7 +374,6 @@ Aaron Páez,py PAR,FW,Olimpia,18,2005,4,4,308,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00
 Edgar Paez,,,Cerro Porteño,,,2,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Guillermo Paiva,py PAR,FW,Olimpia,26,1997,3,1,104,1.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Abel Paredes,py PAR,DF,Sportivo Ameliano,26,1997,35,33,2901,32.2,0,1,1,0,0,0,1,1,0.00,0.03,0.03,0.00,0.03
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Andres Paredes,py PAR,GK,Tacuary,20,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Marcelo Paredes,py PAR,MF,Tacuary,31,1993,38,32,2816,31.3,3,2,5,3,0,0,4,0,0.10,0.06,0.16,0.10,0.16
 Aldo Parra,py PAR,MF,Sport Luqueño,21,2002,11,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
@@ -414,7 +399,6 @@ Brian Quintana,ar ARG,MF,Sol de América,21,2002,20,5,570,6.3,1,0,1,1,0,0,4,0,0.
 Hugo Quintana,py PAR,MF,Olimpia,22,2001,7,3,233,2.6,0,1,1,0,0,0,0,0,0.00,0.39,0.39,0.00,0.39
 Lucas Quintana,py PAR,DF,Cerro Porteño,19,2005,7,5,496,5.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Víctor Quintana,py PAR,MF,Nacional,20,2003,21,16,1276,14.2,1,3,4,1,0,0,4,0,0.07,0.21,0.28,0.07,0.28
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Víctor Quintana,py PAR,"DF,MF",Olimpia,20,2003,5,3,264,2.9,1,0,1,1,0,0,1,0,0.34,0.00,0.34,0.34,0.34
 César Ramírez,py PAR,DF,Guaraní,20,2003,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Iván Ramírez,py PAR,DF,Libertad,29,1994,31,27,2428,27.0,1,3,4,1,0,0,3,0,0.04,0.11,0.15,0.04,0.15
@@ -440,7 +424,6 @@ Juan Rodrigo Rojas,py PAR,MF,Sport Luqueño,35,1988,34,31,2615,29.1,3,3,6,3,0,0,
 Derlis Rodríguez,py PAR,"MF,FW",Cerro Porteño,26,1997,20,15,1171,13.0,2,4,6,2,0,0,1,0,0.15,0.31,0.46,0.15,0.46
 Derlis Rodríguez,py PAR,MF,Tacuary,26,1997,20,19,1699,18.9,5,3,8,5,0,1,5,0,0.26,0.16,0.42,0.26,0.42
 René Rodriguez,py PAR,DF,2 de Mayo,22,2002,19,17,1541,17.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Santiago Rojas,py PAR,GK,Nacional,27,1996,21,21,1890,21.0,0,0,0,0,0,1,4,0,0.00,0.00,0.00,0.00,0.00
 Fernando Román,py PAR,DF,Olimpia,25,1998,14,13,1184,13.2,1,0,1,1,0,0,0,0,0.08,0.00,0.08,0.08,0.08
 Fernando Román,py PAR,"DF,MF",Guaraní,22,2001,23,18,1574,17.5,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00
@@ -466,7 +449,6 @@ Felipe Salomoni,ar ARG,"MF,DF",Guaraní,20,2003,20,12,988,11.0,0,2,2,0,0,0,2,0,0
 Alejandro Samudio,py PAR,"MF,FW",Sportivo Ameliano,24,1999,33,21,1888,21.0,4,1,5,4,0,0,3,1,0.19,0.05,0.24,0.19,0.24
 Carlos Samudio,,DF,Sol de América,,,10,7,621,6.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Miguel Samudio,py PAR,DF,Tacuary,37,1986,10,9,682,7.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Victor Samudio,py PAR,GK,Sportivo Trinidense,36,1987,32,32,2880,32.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
 Lucas Sanabria,py PAR,MF,Libertad,24,1999,28,20,1638,18.2,2,2,4,2,0,0,4,1,0.11,0.11,0.22,0.11,0.22
 Tobías Sanabria,py PAR,MF,Olimpia,19,2004,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
@@ -475,8 +457,8 @@ Roque Santa Cruz,py PAR,FW,Libertad,42,1981,29,16,1449,16.1,4,2,6,4,0,0,3,0,0.25
 Danilo Santacruz,py PAR,FW,Guaraní,28,1995,26,15,1180,13.1,3,0,3,3,0,0,1,0,0.23,0.00,0.23,0.23,0.23
 Jordán Santacruz,py PAR,MF,Nacional,28,1995,34,14,1341,14.9,0,1,1,0,0,0,7,0,0.00,0.07,0.07,0.00,0.07
 Elías Sarquis,py PAR,"FW,MF",Sportivo Ameliano,32,1991,27,7,993,11.0,2,3,5,2,0,0,4,0,0.18,0.27,0.45,0.18,0.45
-Matías Schabus,,MF,Libertad,,,6,1,117,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
-Alex Servian,,"MF,FW",Sportivo Ameliano,,,17,16,837,9.3,2,0,2,2,0,0,0,0,0.22,0.00,0.22,0.22,0.22
+Matías Schabus,py PAR,MF,Libertad,19,2004,6,1,117,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Alex Servian,py PAR,"MF,FW",Sportivo Ameliano,18,2005,17,16,837,9.3,2,0,2,2,0,0,0,0,0.22,0.00,0.22,0.22,0.22
 Carlos Servin,py PAR,GK,2 de Mayo,36,1987,42,42,3780,42.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
 Jesús Servín,py PAR,MF,Tacuary,20,2003,2,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
 Gaspar Servio,ar ARG,GK,Guaraní,31,1992,44,44,3960,44.0,6,0,6,0,6,6,7,0,0.14,0.00,0.14,0.00,0.00
@@ -492,7 +474,6 @@ Diego Torres,py PAR,"MF,FW",Sportivo Trinidense,21,2002,16,15,1129,12.5,3,1,4,3,
 Julio César González Trinidad,py PAR,DF,Sportivo Ameliano,31,1992,38,34,3122,34.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
 Vagner,br BRA,GK,Tacuary,34,1989,15,15,1350,15.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Valdeci,br BRA,"MF,FW",Tacuary,28,1995,14,4,425,4.7,0,1,1,0,0,0,3,0,0.00,0.21,0.21,0.00,0.21
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Bruno Valdez,py PAR,DF,Cerro Porteño,31,1992,7,7,629,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
 Diego Valdez,py PAR,MF,Sol de América,30,1993,17,12,1143,12.7,1,1,2,1,0,1,5,0,0.08,0.08,0.16,0.08,0.16
 Hugo Valdez,py PAR,"MF,FW",Sportivo Ameliano,28,1995,31,13,1548,17.2,5,1,6,5,0,0,3,0,0.29,0.06,0.35,0.29,0.35
@@ -518,7 +499,6 @@ Diego Viera,py PAR,DF,Libertad,32,1991,39,39,3464,38.5,2,1,3,2,0,0,0,1,0.05,0.03
 Wilder Viera,py PAR,"MF,FW",Cerro Porteño,21,2002,22,6,800,8.9,0,1,1,0,0,0,6,0,0.00,0.11,0.11,0.00,0.11
 Leonardo Villagra,py PAR,"FW,MF",Sportivo Ameliano,33,1990,19,10,896,10.0,3,1,4,2,1,1,3,0,0.30,0.10,0.40,0.20,0.30
 Alexis Villalba,py PAR,DF,Sport Luqueño,25,1998,30,30,2639,29.3,2,0,2,2,0,0,4,1,0.07,0.00,0.07,0.07,0.07
-Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
 Héctor Villalba,py PAR,"MF,FW",Libertad,29,1994,7,4,378,4.2,1,0,1,1,0,0,1,0,0.24,0.00,0.24,0.24,0.24
 Hermes Villalba,py PAR,DF,Sportivo Trinidense,32,1991,23,16,1610,17.9,2,0,2,2,0,0,4,0,0.11,0.00,0.11,0.11,0.11
 Iván Villalba,py PAR,DF,Sport Luqueño,29,1995,12,10,998,11.1,1,0,1,1,0,0,5,1,0.09,0.00,0.09,0.09,0.09
