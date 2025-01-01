@@ -1,0 +1,614 @@
+player,nation,pos,squad,age,born,mp,starts,min,90s,goals,ast,g+a,g-pk,pk,pkatt,crdy,crdr,per_gls,per_ast,per_g+a,per_g-pk,per_g+a-pk
+Carlos Enrique Áñez,bo BOL,DF,Oriente Petrolero,28,1995,25,21,1771,19.7,3,0,3,3,0,0,9,1,0.15,0.00,0.15,0.15,0.15
+Carlos Abastoflor,bo BOL,MF,Always Ready,21,2002,4,2,140,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Carlos Abastoflor,bo BOL,MF,Real Santa Cruz,21,2002,20,19,1525,16.9,2,3,5,2,0,0,5,0,0.12,0.18,0.30,0.12,0.30
+Freddy Abastoflor,bo BOL,FW,Real Santa Cruz,31,1993,4,2,232,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Victor Abrego,bo BOL,FW,Nacional Potosí,26,1997,21,8,886,9.8,10,3,13,8,2,2,2,0,1.02,0.30,1.32,0.81,1.12
+Neto Acará,br BRA,FW,San Antonio Bulo Bulo,24,1999,22,21,1628,18.1,6,6,12,6,0,0,6,0,0.33,0.33,0.66,0.33,0.66
+Mauricio Adorno,bo BOL,GK,Nacional Potosí,22,2001,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Wilber Aguilar Diaz,bo BOL,,San Antonio Bulo Bulo,17,2007,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Fernando Aguilar,bo BOL,MF,Aurora,26,1997,3,1,104,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Fernando Aguilar,bo BOL,MF,Real Tomayapo,26,1997,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Daniel Aguilera,bo BOL,DF,Indep Petrolero,19,2004,13,13,979,10.9,0,2,2,0,0,0,1,1,0.00,0.18,0.18,0.00,0.18
+Matías Aguilera,bo BOL,MF,Oriente Petrolero,18,2005,1,1,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Darío Aimar,ec ECU,DF,The Strongest,29,1995,25,24,2203,24.5,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04
+David Akologo,bo BOL,GK,Aurora,26,1997,31,31,2801,31.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Jenrry Alaca,bo BOL,FW,San Antonio Bulo Bulo,37,1986,37,36,2992,33.2,0,0,0,0,0,0,12,0,0.00,0.00,0.00,0.00,0.00
+Martín Alaníz,uy URU,MF,Aurora,30,1993,12,11,1004,11.2,2,2,4,2,0,0,2,1,0.18,0.18,0.36,0.18,0.36
+Alfredo Alanoca,bo BOL,MF,Always Ready,27,1996,10,4,339,3.8,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27
+Jose Alba,bo BOL,MF,Oriente Petrolero,18,2005,3,2,196,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alan Alcaraz,ar ARG,MF,Real Tomayapo,25,1998,31,14,1582,17.6,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00
+Paolo Alcocer,bo BOL,MF,FC Universitario,23,2000,20,13,1280,14.2,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00
+Gustavo Alexis Visalla,bo BOL,MF,Blooming,21,2002,5,3,322,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Carmelo Algarañaz,bo BOL,FW,Bolívar,28,1996,13,13,997,11.1,7,2,9,6,1,1,2,0,0.63,0.18,0.81,0.54,0.72
+José Alí Gutiérrez,bo BOL,MF,Bolívar,18,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luis Alí,bo BOL,FW,GV San José,29,1994,15,6,457,5.1,2,0,2,2,0,0,2,0,0.39,0.00,0.39,0.39,0.39
+Jose Alipaz,bo BOL,FW,FC Universitario,21,2002,9,2,263,2.9,1,1,2,1,0,0,1,0,0.34,0.34,0.68,0.34,0.68
+Gustavo Alles,uy URU,FW,Nacional Potosí,34,1989,6,3,261,2.9,0,1,1,0,0,0,1,0,0.00,0.34,0.34,0.00,0.34
+Gustavo Almada,bo BOL,GK,FC Universitario,29,1994,32,31,2865,31.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Angelo Alvarado,,MF,Real Santa Cruz,,,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Eduardo Álvarez,bo BOL,DF,Nacional Potosí,20,2003,7,7,546,6.1,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00
+Eduardo Álvarez,bo BOL,DF,Royal Parí,20,2003,3,3,257,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Gilbert Álvarez,bo BOL,FW,Oriente Petrolero,31,1992,30,25,2341,26.0,16,7,23,13,3,4,8,1,0.62,0.27,0.88,0.50,0.77
+Sebastian Alvarez,bo BOL,DF,Oriente Petrolero,22,2001,33,31,2822,31.4,0,2,2,0,0,0,3,1,0.00,0.06,0.06,0.00,0.06
+William Álvarez,bo BOL,FW,Nacional Potosí,28,1995,34,12,1383,15.4,7,2,9,7,0,0,4,0,0.46,0.13,0.59,0.46,0.59
+Matheus Alves,br BRA,"FW,MF",Royal Parí,30,1993,23,20,1765,19.6,8,2,10,8,0,0,5,0,0.41,0.10,0.51,0.41,0.51
+Rodrigo Amaral,uy URU,FW,Wilstermann,26,1997,27,26,1966,21.8,4,6,10,3,1,2,13,0,0.18,0.27,0.46,0.14,0.41
+Nelson Amarilla,py PAR,DF,Aurora,36,1987,13,12,976,10.8,1,0,1,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09
+Joel Amoroso,ar ARG,"FW,MF",The Strongest,36,1988,30,16,1503,16.7,2,6,8,2,0,0,4,1,0.12,0.36,0.48,0.12,0.48
+Rubem Anagua,,,Oriente Petrolero,,,1,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Marcos Andia,bo BOL,MF,Nacional Potosí,35,1988,19,9,738,8.2,1,0,1,1,0,0,4,1,0.12,0.00,0.12,0.12,0.12
+Tobías Andre Moriceau,ar ARG,MF,Royal Parí,26,1997,30,23,2052,22.8,1,2,3,0,1,1,3,1,0.04,0.09,0.13,0.00,0.09
+Javier Andres Sanguinetti,ar ARG,MF,GV San José,33,1990,29,27,2234,24.8,12,9,21,10,2,2,7,0,0.48,0.36,0.85,0.40,0.77
+José Andrés Veizaga,bo BOL,MF,Real Santa Cruz,27,1996,5,0,128,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Óscar Añez,bo BOL,DF,Nacional Potosí,33,1990,6,4,244,2.7,0,1,1,0,0,0,0,0,0.00,0.37,0.37,0.00,0.37
+Percy Añez,bo BOL,MF,The Strongest,18,2005,2,0,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Percy Añez,bo BOL,MF,Always Ready,18,2005,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Miguel Ángel Becerra,bo BOL,DF,Blooming,30,1993,28,24,1898,21.1,0,3,3,0,0,0,2,0,0.00,0.14,0.14,0.00,0.14
+Brayan Angulo,ec ECU,FW,The Strongest,28,1995,11,6,580,6.4,2,0,2,2,0,0,0,0,0.31,0.00,0.31,0.31,0.31
+Larry Angulo,co COL,MF,Always Ready,28,1995,1,1,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Walter Antelo,bo BOL,MF,Real Santa Cruz,27,1996,8,5,473,5.3,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19
+José Antonio Pinto,bo BOL,MF,FC Universitario,23,2000,18,16,1519,16.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Daniel Aponte,,MF,Blooming,,,21,18,1454,16.2,1,2,3,1,0,0,3,0,0.06,0.12,0.19,0.06,0.19
+Cristian Árabe,bo BOL,MF,Oriente Petrolero,32,1991,10,1,267,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Albert Aramayo,bo BOL,,GV San José,18,2005,7,2,173,1.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Leonardo Arana,bo BOL,MF,FC Universitario,19,2004,11,2,344,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Alex Arancibia,bo BOL,GK,Real Tomayapo,34,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jaime Arandia,bo BOL,MF,San Antonio Bulo Bulo,25,1998,2,0,72,0.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00
+Brayan Aranibar,bo BOL,MF,Aurora,25,1998,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Paul Arano,bo BOL,MF,Real Tomayapo,28,1995,21,10,926,10.3,3,1,4,2,1,1,2,0,0.29,0.10,0.39,0.19,0.29
+Elder Arauz,bo BOL,GK,Indep Petrolero,33,1990,28,28,2550,28.3,0,1,1,0,0,0,1,0,0.00,0.04,0.04,0.00,0.04
+Jorge Araúz,bo BOL,GK,GV San José,28,1995,5,5,438,4.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00
+Othoniel Arce,mx MEX,FW,Blooming,34,1989,18,12,1079,12.0,4,0,4,4,0,0,3,0,0.33,0.00,0.33,0.33,0.33
+Santiago Arce,bo BOL,MF,Guabirá,23,2000,20,15,1331,14.8,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07
+Luis Ardaya,bo BOL,MF,Real Santa Cruz,21,2002,3,1,47,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luis Ariel Jaldín,bo BOL,DF,San Antonio Bulo Bulo,33,1990,24,8,741,8.2,3,0,3,3,0,0,3,0,0.36,0.00,0.36,0.36,0.36
+Fernando Arismendi,uy URU,MF,Blooming,32,1991,35,26,2131,23.7,3,3,6,3,0,0,5,1,0.13,0.13,0.25,0.13,0.25
+Jaime Arrascaita,bo BOL,MF,The Strongest,30,1993,28,21,1748,19.4,2,1,3,2,0,0,6,0,0.10,0.05,0.15,0.10,0.15
+Diego Arroyo,bo BOL,DF,Bolívar,18,2005,3,1,114,1.3,0,1,1,0,0,0,1,0,0.00,0.79,0.79,0.00,0.79
+Mauricio Arroyo,bo BOL,MF,Indep Petrolero,19,2004,1,0,19,0.2,0,1,1,0,0,0,0,0,0.00,4.74,4.74,0.00,4.74
+Nicolas Arteaga,ar ARG,MF,Indep Petrolero,27,1996,17,5,571,6.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Arthur,br BRA,FW,San Antonio Bulo Bulo,23,2000,21,10,1050,11.7,2,1,3,2,0,0,1,0,0.17,0.09,0.26,0.17,0.26
+Rodrigo Ávila,bo BOL,MF,Indep Petrolero,28,1995,22,18,1668,18.5,3,0,3,3,0,0,7,1,0.16,0.00,0.16,0.16,0.16
+Mijail Aviles,ve VEN,MF,Real Tomayapo,36,1987,30,23,1925,21.4,1,1,2,1,0,0,14,2,0.05,0.05,0.09,0.05,0.09
+Abdiel Ayarza,pa PAN,MF,The Strongest,31,1992,11,8,641,7.1,4,1,5,4,0,0,1,0,0.56,0.14,0.70,0.56,0.70
+Pedro Azogue,bo BOL,"FW,MF",Nacional Potosí,29,1994,30,18,1701,18.9,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05
+Oscar Baldomar,bo BOL,DF,Nacional Potosí,27,1996,21,13,1278,14.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Ramiro Ballivián,bo BOL,DF,Aurora,31,1992,15,2,471,5.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luis Banegas,bo BOL,GK,GV San José,38,1985,34,34,3038,33.8,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00
+Mario Barbery,bo BOL,FW,Real Tomayapo,21,2002,24,23,1506,16.7,0,3,3,0,0,0,5,1,0.00,0.18,0.18,0.00,0.18
+Miguel Barns,,,Real Tomayapo,,,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alain Baroja,ve VEN,GK,Always Ready,34,1989,35,35,3063,34.0,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00
+Marco Barrios,bo BOL,MF,Real Santa Cruz,28,1995,20,15,1302,14.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Alejandro Barrón,bo BOL,FW,Wilstermann,24,1999,3,1,141,1.6,3,0,3,3,0,0,2,0,1.91,0.00,1.91,1.91,1.91
+Juan Bartolomé,bo BOL,DF,FC Universitario,26,1997,4,3,334,3.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Alexander Bautista,bo BOL,FW,San Antonio Bulo Bulo,25,1998,10,0,208,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Guilmar Bazan,bo BOL,MF,Blooming,18,2005,17,6,666,7.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Matheo Becerra,bo BOL,FW,Blooming,18,2005,2,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Oscar Becerra,ve VEN,MF,Real Tomayapo,29,1994,18,15,1202,13.4,7,0,7,6,1,1,2,0,0.52,0.00,0.52,0.45,0.45
+Alejandro Bejarano,bo BOL,MF,Indep Petrolero,39,1984,24,14,1186,13.2,1,1,2,1,0,0,4,0,0.08,0.08,0.15,0.08,0.15
+Diego Bejarano,bo BOL,"DF,MF",Oriente Petrolero,32,1991,2,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Joel Bejarano,bo BOL,MF,GV San José,27,1996,4,0,51,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Marvin Bejarano,bo BOL,DF,Wilstermann,35,1988,35,35,3062,34.0,1,5,6,1,0,0,1,0,0.03,0.15,0.18,0.03,0.18
+Bryan Bentaberry,uy URU,DF,Bolívar,27,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Joel Bernal,bo BOL,GK,Oriente Petrolero,20,2003,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+José Berrios,,DF,Aurora,,,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Oswaldo Blanco,co COL,FW,Aurora,32,1991,36,25,2244,24.9,6,5,11,5,1,1,8,0,0.24,0.20,0.44,0.20,0.40
+Héctor Bobadilla,py PAR,FW,Wilstermann,22,2001,20,18,1491,16.6,11,4,15,11,0,0,4,1,0.66,0.24,0.91,0.66,0.91
+Manuel Bonilla,bo BOL,DF,Royal Parí,18,2005,15,7,750,8.3,0,1,1,0,0,0,4,1,0.00,0.12,0.12,0.00,0.12
+Rodrigo Borda,bo BOL,DF,San Antonio Bulo Bulo,31,1992,14,2,441,4.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+José Briceño,bo BOL,FW,Always Ready,22,2002,30,20,1804,20.0,8,3,11,8,0,0,6,0,0.40,0.15,0.55,0.40,0.55
+Gerel Buezo,,MF,The Strongest,,,3,0,78,0.9,1,0,1,1,0,0,0,0,1.15,0.00,1.15,1.15,1.15
+Antonio Bustamante,bo BOL,MF,Aurora,26,1997,25,10,954,10.6,6,3,9,6,0,0,2,0,0.57,0.28,0.85,0.57,0.85
+Mateo Bustos,ar ARG,MF,San Antonio Bulo Bulo,31,1992,11,1,258,2.9,0,1,1,0,0,0,3,0,0.00,0.35,0.35,0.00,0.35
+Ronald Bustos,bo BOL,FW,The Strongest,19,2004,31,31,2567,28.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Esnaider Cabezas,ec ECU,DF,Oriente Petrolero,24,1999,5,2,287,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Mauricio Cabral,bo BOL,FW,Aurora,23,2000,22,12,1057,11.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Pedro Cabral,br BRA,FW,Guabirá,24,1999,20,14,1111,12.3,10,1,11,9,1,1,2,1,0.81,0.08,0.89,0.73,0.81
+Abraham Cabrera,bo BOL,DF,Nacional Potosí,32,1991,12,6,572,6.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Alex Cáceres,py PAR,"FW,MF",Wilstermann,27,1996,23,22,1949,21.7,2,2,4,2,0,0,3,0,0.09,0.09,0.18,0.09,0.18
+Ricardo Cadima,bo BOL,MF,Royal Parí,17,2006,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jhonathan Caicedo,co COL,MF,Real Santa Cruz,28,1995,20,14,1299,14.4,3,2,5,3,0,0,6,0,0.21,0.14,0.35,0.21,0.35
+Luis Caicedo,ec ECU,DF,Always Ready,26,1997,23,23,1932,21.5,2,0,2,0,2,2,8,1,0.09,0.00,0.09,0.00,0.00
+Maximiliano Caire,ar ARG,DF,The Strongest,35,1988,33,25,2284,25.4,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04
+Moisés Calero,bo BOL,MF,GV San José,25,1998,5,2,188,2.1,1,1,2,1,0,0,0,0,0.48,0.48,0.96,0.48,0.96
+Joel Calicho,bo BOL,MF,FC Universitario,28,1995,34,26,2053,22.8,2,3,5,2,0,0,10,2,0.09,0.13,0.22,0.09,0.22
+Facundo Callejo,ar ARG,FW,Nacional Potosí,31,1992,12,9,846,9.4,4,2,6,4,0,0,2,0,0.43,0.21,0.64,0.43,0.64
+Daniel Camacho,bo BOL,MF,FC Universitario,25,1998,36,35,2105,23.4,4,1,5,4,0,0,13,1,0.17,0.04,0.21,0.17,0.21
+Jose Camacho,bo BOL,MF,Oriente Petrolero,20,2003,6,3,240,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+C. Campos,,FW,FC Universitario,,,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Imanol Campos,bo BOL,MF,Real Santa Cruz,18,2005,3,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Erick Cano,bo BOL,MF,FC Universitario,24,1999,6,0,151,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Aldair Cantillo,co COL,DF,Real Tomayapo,27,1996,7,5,415,4.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Andrés Carabalí,co COL,FW,Indep Petrolero,26,1997,13,8,885,9.8,2,0,2,1,1,1,4,0,0.20,0.00,0.20,0.10,0.10
+José Carabalí,ec ECU,"DF,MF",Always Ready,26,1997,13,9,857,9.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Juvenal Caraballo,,,Oriente Petrolero,,,5,1,182,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Massiel Cardan,,MF,Real Tomayapo,,,11,4,291,3.2,1,1,2,1,0,0,0,0,0.31,0.31,0.62,0.31,0.62
+Imanol Cárdenas,bo BOL,MF,Real Santa Cruz,23,2000,18,8,757,8.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Luis Cárdenas,bo BOL,GK,Aurora,32,1991,10,9,829,9.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Rudy Cardozo,bo BOL,MF,Wilstermann,33,1990,20,6,680,7.6,2,0,2,1,1,1,0,0,0.26,0.00,0.26,0.13,0.13
+Juan Carlos Arce,bo BOL,"FW,MF",Blooming,38,1985,32,16,1537,17.1,1,4,5,0,1,2,10,0,0.06,0.23,0.29,0.00,0.23
+Roberto Carlos Fernández,bo BOL,"DF,MF",Bolívar,24,1999,6,4,377,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Juan Carlos Montenegro,bo BOL,FW,Guabirá,26,1997,28,10,922,10.2,1,0,1,1,0,0,2,0,0.10,0.00,0.10,0.10,0.10
+Juan Carlos Parada,bo BOL,MF,Guabirá,27,1996,9,4,348,3.9,0,1,1,0,0,0,3,0,0.00,0.26,0.26,0.00,0.26
+Luis Carlos Rodríguez,bo BOL,DF,Wilstermann,21,2002,7,6,451,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Santiago Castedo,,FW,Blooming,,,4,3,223,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Daniel Castellón,bo BOL,DF,Indep Petrolero,27,1996,25,16,1672,18.6,0,1,1,0,0,0,8,0,0.00,0.05,0.05,0.00,0.05
+Michael Castellón,bo BOL,MF,San Antonio Bulo Bulo,27,1996,32,19,1618,18.0,0,1,1,0,0,0,3,1,0.00,0.06,0.06,0.00,0.06
+Vladimir Castellón,bo BOL,"FW,MF",Real Tomayapo,34,1989,7,5,329,3.7,0,0,0,0,0,2,1,0,0.00,0.00,0.00,0.00,0.00
+Gonzalo Castillo,uy URU,DF,Wilstermann,33,1990,13,12,978,10.9,0,0,0,0,0,0,5,2,0.00,0.00,0.00,0.00,0.00
+Jhoan Castillo,bo BOL,,Real Santa Cruz,18,2005,4,2,229,2.5,1,0,1,1,0,0,0,0,0.39,0.00,0.39,0.39,0.39
+Josué Castillo,bo BOL,MF,Real Tomayapo,19,2004,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Raúl Castro,bo BOL,MF,FC Universitario,34,1989,39,29,2515,27.9,1,4,5,1,0,0,8,0,0.04,0.14,0.18,0.04,0.18
+Carlos Cejas,bo BOL,DF,Aurora,20,2004,36,30,2894,32.2,4,4,8,4,0,0,8,1,0.12,0.12,0.25,0.12,0.25
+Pablo César Luján,bo BOL,MF,FC Universitario,20,2003,9,3,378,4.2,1,0,1,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24
+Lázaro Céspedes,,DF,Royal Parí,,,13,10,783,8.7,1,0,1,1,0,0,6,1,0.11,0.00,0.11,0.11,0.11
+Mauricio Chajtur,bo BOL,MF,Guabirá,27,1996,9,1,211,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jose Chavez,bo BOL,DF,Royal Parí,18,2005,1,0,28,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Lucas Chávez,bo BOL,FW,Bolívar,20,2003,10,6,482,5.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Martín Chiatti,ar ARG,DF,Wilstermann,31,1992,21,19,1614,17.9,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00
+Chico,br BRA,FW,Bolívar,28,1995,10,8,772,8.6,7,5,12,6,1,1,4,0,0.82,0.58,1.40,0.70,1.28
+Cristhian Choque,bo BOL,MF,Indep Petrolero,22,2001,3,3,215,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Denilson Choque,bo BOL,DF,Real Santa Cruz,25,1998,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alejandro Chumacero,bo BOL,MF,Wilstermann,32,1991,21,18,1612,17.9,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00
+Jeyson Chura,bo BOL,MF,The Strongest,21,2002,31,27,2262,25.1,7,1,8,7,0,0,6,0,0.28,0.04,0.32,0.28,0.32
+Gastón Comas,ar ARG,MF,GV San José,25,1998,8,4,316,3.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00
+Luis Condarco,bo BOL,MF,Real Santa Cruz,19,2004,2,1,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Sebastian Coplot,bo BOL,MF,Real Santa Cruz,21,2002,8,3,334,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Rubén Cordano,bo BOL,GK,Oriente Petrolero,25,1998,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Rubén Cordano,bo BOL,GK,Bolívar,25,1998,17,17,1530,17.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Rafael Corrales,,DF,Wilstermann,,,4,2,185,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Leandro Corulo,ar ARG,DF,Real Tomayapo,34,1989,24,24,2141,23.8,7,1,8,0,7,7,7,1,0.29,0.04,0.34,0.00,0.04
+Gustavo Cristaldo,py PAR,MF,Indep Petrolero,34,1989,24,23,1880,20.9,4,3,7,4,0,0,4,0,0.19,0.14,0.34,0.19,0.34
+Gustavo Cristaldo,py PAR,MF,Nacional Potosí,34,1989,11,5,494,5.5,3,1,4,3,0,0,2,0,0.55,0.18,0.73,0.55,0.73
+Jonatan Cristaldo,ar ARG,FW,Indep Petrolero,34,1989,12,5,450,5.0,2,3,5,1,1,2,3,0,0.40,0.60,1.00,0.20,0.80
+Guilder Cuellar,bo BOL,MF,FC Universitario,24,1999,20,1,358,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Héctor Cuellar,bo BOL,DF,Always Ready,23,2000,35,33,2834,31.5,2,2,4,2,0,0,5,1,0.06,0.06,0.13,0.06,0.13
+Juan Cuellar,bo BOL,MF,FC Universitario,17,2006,23,10,1003,11.1,3,1,4,3,0,0,1,1,0.27,0.09,0.36,0.27,0.36
+Mario Cuéllar,bo BOL,DF,GV San José,34,1989,8,8,719,8.0,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00
+Ronald Cuéllar,bo BOL,DF,Blooming,26,1997,16,1,330,3.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Victor Cuellar,bo BOL,MF,The Strongest,23,2000,30,17,1719,19.1,2,2,4,2,0,0,7,0,0.10,0.10,0.21,0.10,0.21
+Santiago Cuiza,bo BOL,DF,Real Tomayapo,21,2002,25,21,1862,20.7,1,1,2,1,0,0,2,0,0.05,0.05,0.10,0.05,0.10
+Clemison Junior Da Silva,,MF,Wilstermann,,,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Dener Da Silva,,FW,Guabirá,,,5,3,258,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Juan Daniel Ferrufino,bo BOL,FW,Blooming,22,2001,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Juan Daniel Ferrufino,bo BOL,FW,Guabirá,22,2001,7,2,267,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Enrique David Díaz,uy URU,DF,Indep Petrolero,41,1982,30,24,2076,23.1,1,0,1,1,0,0,5,1,0.04,0.00,0.04,0.04,0.04
+Marcelo De Lima Castro,bo BOL,DF,San Antonio Bulo Bulo,18,2005,21,11,1205,13.4,2,1,3,2,0,0,1,0,0.15,0.07,0.22,0.15,0.22
+Ayron del Valle,co COL,"FW,MF",Always Ready,35,1989,10,5,548,6.1,4,0,4,2,2,2,0,0,0.66,0.00,0.66,0.33,0.33
+Matías Delgadillo,bo BOL,DF,Wilstermann,18,2005,8,3,293,3.3,1,1,2,1,0,0,1,0,0.31,0.31,0.61,0.31,0.61
+Luis Demiquel,bo BOL,DF,The Strongest,24,2000,2,1,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luis Demiquel,bo BOL,DF,Nacional Potosí,24,2000,21,18,1721,19.1,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00
+Andrés Desábato,ar ARG,GK,Bolívar,33,1990,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jeymer Díaz,pr PUR,FW,GV San José,18,2005,14,5,584,6.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Roberto Diez,,,Oriente Petrolero,,,29,26,2265,25.2,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04
+Hugo Dorrego,uy URU,MF,Oriente Petrolero,30,1993,31,28,2406,26.7,2,9,11,1,1,1,10,0,0.07,0.34,0.41,0.04,0.37
+Omar Duarte,co COL,FW,Nacional Potosí,28,1995,4,2,154,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Denilson Durán,bo BOL,DF,Blooming,20,2003,29,20,1868,20.8,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00
+Santiago Echeverría,ar ARG,DF,Wilstermann,33,1990,31,29,2677,29.7,3,0,3,3,0,0,10,1,0.10,0.00,0.10,0.10,0.10
+Jorge Eduardo Lovera,bo BOL,MF,Guabirá,26,1997,20,16,1327,14.7,0,1,1,0,0,0,6,2,0.00,0.07,0.07,0.00,0.07
+Ramiro Eguez,bo BOL,MF,Blooming,19,2004,14,2,439,4.9,0,1,1,0,0,0,2,0,0.00,0.21,0.21,0.00,0.21
+Emerson,bo BOL,MF,Indep Petrolero,23,2000,3,2,165,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Cristian Enciso,py PAR,DF,Aurora,32,1991,24,24,2059,22.9,2,1,3,2,0,0,8,0,0.09,0.04,0.13,0.09,0.13
+Marc Enoumba,bo BOL,FW,The Strongest,30,1993,21,15,1501,16.7,1,0,1,1,0,0,3,1,0.06,0.00,0.06,0.06,0.06
+José Erick Correa,co COL,FW,Nacional Potosí,31,1992,21,4,778,8.6,3,1,4,2,1,1,1,0,0.35,0.12,0.46,0.23,0.35
+Gabriel Esparza,ar ARG,"FW,MF",Wilstermann,31,1993,8,7,658,7.3,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14
+Diego Fabián Barreto,py PAR,MF,Oriente Petrolero,30,1993,27,19,1439,16.0,2,1,3,2,0,0,3,0,0.13,0.06,0.19,0.13,0.19
+Fábio,br BRA,FW,Bolívar,26,1997,19,11,1081,12.0,11,2,13,10,1,1,1,0,0.92,0.17,1.08,0.83,1.00
+Jonata Felipe,br BRA,MF,Wilstermann,24,1999,6,6,525,5.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Adriel Fernández,bo BOL,MF,The Strongest,27,1996,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Adriel Fernández,bo BOL,MF,San Antonio Bulo Bulo,27,1996,19,9,836,9.3,1,0,1,1,0,1,2,0,0.11,0.00,0.11,0.11,0.11
+Leo Aaron Petter Andersen Fernandez,bo BOL,,Wilstermann,17,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Manuel Ferrel,bo BOL,GK,Guabirá,22,2001,30,30,2674,29.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Roler Ferrufino,bo BOL,FW,GV San José,23,2000,15,2,664,7.4,10,3,13,10,0,0,1,1,1.36,0.41,1.76,1.36,1.76
+Arquímedes Figuera,ve VEN,MF,Blooming,34,1989,33,33,2839,31.5,0,0,0,0,0,0,14,1,0.00,0.00,0.00,0.00,0.00
+Layonel Figueroa,bo BOL,MF,Guabirá,24,1999,5,2,170,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53
+Layonel Figueroa,bo BOL,MF,Real Tomayapo,24,1999,17,3,489,5.4,3,0,3,3,0,0,0,0,0.55,0.00,0.55,0.55,0.55
+Ariel Flores,bo BOL,GK,Aurora,19,2004,22,14,1324,14.7,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07
+César Flores,bo BOL,FW,Wilstermann,18,2006,3,1,88,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Daniel Flores,do DOM,MF,Royal Parí,23,2000,17,13,1003,11.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00
+Enrique Flores,bo BOL,DF,Oriente Petrolero,29,1994,22,16,1464,16.3,0,2,2,0,0,0,4,0,0.00,0.12,0.12,0.00,0.12
+Walter Flores,bo BOL,FW,Always Ready,21,2003,2,2,163,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Juan Gabriel Valverde,bo BOL,DF,Blooming,33,1990,11,7,729,8.1,1,0,1,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12
+Matias Galindo,bo BOL,MF,Always Ready,17,2006,7,5,375,4.2,0,1,1,0,0,0,2,0,0.00,0.24,0.24,0.00,0.24
+Pedro Galindo,bo BOL,GK,Real Tomayapo,29,1994,35,35,3149,35.0,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00
+Samuel Galindo,bo BOL,MF,Nacional Potosí,31,1992,23,15,1189,13.2,0,1,1,0,0,0,5,1,0.00,0.08,0.08,0.00,0.08
+Shaiel Gandarillas,,DF,FC Universitario,,,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alfredo García,bo BOL,FW,Nacional Potosí,21,2002,4,1,87,1.0,1,0,1,1,0,0,0,0,1.03,0.00,1.03,1.03,1.03
+César García,do DOM,DF,Oriente Petrolero,30,1993,17,16,1378,15.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jhon García,bo BOL,MF,Oriente Petrolero,23,2000,31,24,2043,22.7,8,4,12,8,0,0,7,0,0.35,0.18,0.53,0.35,0.53
+Kevin García,bo BOL,FW,GV San José,17,2006,22,20,1430,15.9,0,1,1,0,0,0,4,0,0.00,0.06,0.06,0.00,0.06
+Olmes García,co COL,FW,Royal Parí,31,1992,6,4,367,4.1,1,1,2,0,1,1,1,0,0.25,0.25,0.49,0.00,0.25
+Paolo García,bo BOL,GK,FC Universitario,21,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Huanca Garnica,bo BOL,MF,Indep Petrolero,19,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Samuel Garzón,bo BOL,FW,Blooming,24,1999,32,14,1336,14.8,7,0,7,7,0,0,2,0,0.47,0.00,0.47,0.47,0.47
+Francisco Gatti,ar ARG,MF,Indep Petrolero,29,1994,31,22,1773,19.7,7,2,9,5,2,3,10,0,0.36,0.10,0.46,0.25,0.36
+Roland Gil,bo BOL,DF,Guabirá,25,1998,4,3,315,3.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Sergio Gil,bo BOL,DF,Royal Parí,29,1994,36,36,3055,33.9,1,2,3,1,0,0,7,0,0.03,0.06,0.09,0.03,0.09
+Arnaldo Giménez,py PAR,GK,Wilstermann,36,1987,15,15,1277,14.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Diago Giménez,ar ARG,MF,FC Universitario,26,1997,26,20,1969,21.9,0,0,0,0,0,0,11,1,0.00,0.00,0.00,0.00,0.00
+Juan Godoy,py PAR,MF,Indep Petrolero,30,1993,40,40,3425,38.1,22,2,24,19,3,3,10,0,0.58,0.05,0.63,0.50,0.55
+Wallace Gomes,br BRA,DF,GV San José,19,2004,20,17,1589,17.7,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00
+Raúl Gómez,,MF,GV San José,,,2,1,53,0.6,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00
+Richet Gómez,bo BOL,MF,Blooming,23,2000,30,25,2192,24.4,4,0,4,4,0,0,12,2,0.16,0.00,0.16,0.16,0.16
+Franz Gonzáles,bo BOL,MF,Oriente Petrolero,23,2000,22,15,1281,14.2,1,2,3,1,0,0,5,0,0.07,0.14,0.21,0.07,0.21
+Efmamjjasond González,co COL,FW,Real Santa Cruz,24,1999,18,18,1495,16.6,6,1,7,2,4,4,12,1,0.36,0.06,0.42,0.12,0.18
+Álex Granell,es ESP,MF,Bolívar,35,1988,19,12,1018,11.3,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00
+Miguel Graneros,ar ARG,FW,Real Tomayapo,27,1996,36,36,3108,34.5,15,5,20,13,2,3,6,0,0.43,0.14,0.58,0.38,0.52
+Pablo Grass,bo BOL,DF,Indep Petrolero,18,2005,5,3,275,3.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Javier Guerra,bo BOL,DF,Nacional Potosí,19,2004,13,10,800,8.9,0,1,1,0,0,0,5,1,0.00,0.11,0.11,0.00,0.11
+Saulo Guerra,bo BOL,MF,Nacional Potosí,31,1992,31,28,2227,24.7,7,6,13,5,2,2,14,2,0.28,0.24,0.53,0.20,0.44
+Sebastián Guerrero,uy URU,FW,The Strongest,23,2000,13,10,779,8.7,8,4,12,8,0,0,1,0,0.92,0.46,1.39,0.92,1.39
+Andrés Guillermo,,,Wilstermann,,,11,8,777,8.6,0,2,2,0,0,0,2,0,0.00,0.23,0.23,0.00,0.23
+Herman Gutiérrez,bo BOL,MF,Oriente Petrolero,26,1997,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Johan Gutiérrez,bo BOL,GK,The Strongest,27,1996,5,4,397,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+José Gutiérrez,us USA,MF,Aurora,19,2004,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Limberg Gutiérrez Jr.,bo BOL,MF,Blooming,25,1998,10,0,156,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Limberg Gutiérrez Jr.,bo BOL,MF,Real Santa Cruz,25,1998,10,10,821,9.1,1,2,3,1,0,0,1,0,0.11,0.22,0.33,0.11,0.33
+Kevin Gutiérrez,bo BOL,FW,San Antonio Bulo Bulo,16,2007,8,3,283,3.1,0,1,1,0,0,0,0,0,0.00,0.32,0.32,0.00,0.32
+Alaín Niño de Guzmán,bo BOL,MF,Oriente Petrolero,21,2003,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Brandon Guzman,bo BOL,MF,Royal Parí,19,2004,1,0,22,0.2,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00
+Jhotmar Guzman,,DF,GV San José,,,1,0,10,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Samuel Guzmán,bo BOL,MF,FC Universitario,22,2001,16,13,1180,13.1,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00
+Hugo Guzmán Vaca,bo BOL,FW,The Strongest,18,2005,2,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Mateo Hernández,ar ARG,MF,Real Tomayapo,25,1998,2,0,46,0.5,1,0,1,0,1,1,0,0,1.96,0.00,1.96,0.00,0.00
+José Herrera,bo BOL,FW,Always Ready,20,2003,17,12,1063,11.8,0,1,1,0,0,0,1,0,0.00,0.08,0.08,0.00,0.08
+Julio Herrera,bo BOL,MF,Always Ready,24,1999,9,4,345,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Julio Herrera,bo BOL,MF,Guabirá,24,1999,22,20,1670,18.6,2,0,2,0,2,2,4,0,0.11,0.00,0.11,0.00,0.00
+Luis Hidalgo,bo BOL,GK,Bolívar,17,2006,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Brian Hinojosa,bo BOL,DF,Real Santa Cruz,30,1993,5,4,271,3.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Diego Hoyos,bo BOL,MF,Nacional Potosí,31,1992,28,21,1895,21.1,0,0,0,0,0,0,12,1,0.00,0.00,0.00,0.00,0.00
+Nils Huasna,bo BOL,FW,GV San José,19,2004,9,6,601,6.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ivan Huayhuata,bo BOL,DF,FC Universitario,34,1989,13,9,801,8.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Ivan Huayhuata,bo BOL,DF,San Antonio Bulo Bulo,34,1989,17,15,1092,12.1,1,4,5,0,1,1,6,0,0.08,0.33,0.41,0.00,0.33
+Víctor Hugo Melgar,bo BOL,MF,GV San José,35,1988,35,35,2900,32.2,3,1,4,3,0,0,15,0,0.09,0.03,0.12,0.09,0.12
+Dagner Hurtado,bo BOL,,Guabirá,23,2000,3,1,173,1.9,1,0,1,1,0,0,1,0,0.52,0.00,0.52,0.52,0.52
+Luis Hurtado,bo BOL,FW,Indep Petrolero,30,1993,8,0,230,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Luis Hurtado,bo BOL,FW,Guabirá,30,1993,12,4,452,5.0,0,1,1,0,0,0,1,0,0.00,0.20,0.20,0.00,0.20
+Fernando Ibañez,,MF,Oriente Petrolero,,,2,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jefferson Ibáñez,bo BOL,DF,Real Santa Cruz,28,1995,15,12,1165,12.9,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00
+Sebastián Ibars,ar ARG,DF,Indep Petrolero,37,1986,23,19,1831,20.3,2,0,2,2,0,0,12,0,0.10,0.00,0.10,0.10,0.10
+Dioggo Isita,bo BOL,FW,Royal Parí,20,2003,4,2,182,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Francisco Isita,bo BOL,FW,San Antonio Bulo Bulo,29,1994,8,0,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jhon Jairo Cuéllar,bo BOL,GK,Guabirá,24,1999,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jhon Jairo Velasco,bo BOL,DF,Guabirá,19,2004,33,31,2674,29.7,0,1,1,0,0,0,7,0,0.00,0.03,0.03,0.00,0.03
+José Jáquez Jr.,do DOM,MF,Royal Parí,27,1996,25,10,884,9.8,4,0,4,3,1,1,4,0,0.41,0.00,0.41,0.31,0.31
+Anderson Jesus,br BRA,DF,Bolívar,28,1995,13,11,854,9.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Matías Jesús Noble,ar ARG,MF,Real Tomayapo,27,1996,18,17,1541,17.1,4,5,9,4,0,0,4,0,0.23,0.29,0.53,0.23,0.53
+Carlos Jiménez,bo BOL,GK,Blooming,22,2001,4,3,286,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Rashid Joffre,,FW,Oriente Petrolero,,,14,8,574,6.4,2,0,2,2,0,0,3,0,0.31,0.00,0.31,0.31,0.31
+Adrian Jusino,bo BOL,DF,The Strongest,31,1992,25,21,1902,21.1,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00
+Cristian Justiniano,,MF,San Antonio Bulo Bulo,,,16,6,642,7.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Leonardo Justiniano,bo BOL,DF,San Antonio Bulo Bulo,22,2001,20,19,1594,17.7,2,1,3,2,0,0,4,0,0.11,0.06,0.17,0.11,0.17
+Leonardo Justiniano,bo BOL,DF,Real Tomayapo,22,2001,11,11,948,10.5,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09
+Leonel Justiniano,bo BOL,MF,Bolívar,31,1992,29,28,2348,26.1,3,2,5,3,0,0,16,0,0.11,0.08,0.19,0.11,0.19
+Sergio Justiniano,,MF,Royal Parí,,,27,13,1127,12.5,3,2,5,3,0,0,3,0,0.24,0.16,0.40,0.24,0.40
+Fernando Kuqui,bo BOL,FW,The Strongest,19,2004,4,1,191,2.1,0,1,1,0,0,0,1,0,0.00,0.47,0.47,0.00,0.47
+Zinedinne La Fuente,bo BOL,MF,Always Ready,18,2005,13,6,768,8.5,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12
+Jonathan Lacerda,uy URU,DF,Blooming,36,1987,30,30,2602,28.9,2,0,2,2,0,0,9,2,0.07,0.00,0.07,0.07,0.07
+Carlos Lampe,bo BOL,GK,Bolívar,36,1987,18,18,1620,18.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Andrés Landa,bo BOL,DF,GV San José,28,1996,29,26,2352,26.1,0,1,1,0,0,0,4,1,0.00,0.04,0.04,0.00,0.04
+Jose Lara,bo BOL,MF,Real Santa Cruz,24,2000,18,9,890,9.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Pablo Laredo,bo BOL,MF,FC Universitario,30,1993,19,11,968,10.8,0,0,0,0,0,0,5,2,0.00,0.00,0.00,0.00,0.00
+Julio Lazarte,bo BOL,MF,FC Universitario,15,2008,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Robson Leandro Santos,br BRA,MF,Wilstermann,31,1992,21,17,1464,16.3,0,1,1,0,0,0,1,1,0.00,0.06,0.06,0.00,0.06
+Heber Leaños,bo BOL,DF,Nacional Potosí,33,1990,8,2,314,3.5,0,1,1,0,0,0,2,0,0.00,0.29,0.29,0.00,0.29
+Omar Ledezma,bo BOL,GK,Real Santa Cruz,20,2003,7,7,630,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Joaquín Lencinas,ar ARG,DF,FC Universitario,35,1988,36,35,3078,34.2,0,0,0,0,0,0,9,1,0.00,0.00,0.00,0.00,0.00
+Daniel Lino,bo BOL,DF,The Strongest,21,2002,17,10,987,11.0,1,2,3,1,0,0,3,1,0.09,0.18,0.27,0.09,0.27
+Rodrigo Llano,co COL,FW,FC Universitario,31,1992,34,15,1792,19.9,4,6,10,1,3,3,3,0,0.20,0.30,0.50,0.05,0.35
+Brian López,do DOM,DF,Real Santa Cruz,24,1999,23,18,1548,17.2,1,0,1,1,0,0,9,0,0.06,0.00,0.06,0.06,0.06
+Cristian Lopez,,,Indep Petrolero,,,15,13,906,10.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+José López,bo BOL,FW,Royal Parí,20,2003,32,20,1862,20.7,6,2,8,4,2,2,7,0,0.29,0.10,0.39,0.19,0.29
+Leonel López,mx MEX,MF,The Strongest,29,1994,12,7,534,5.9,0,3,3,0,0,0,2,0,0.00,0.51,0.51,0.00,0.51
+Leonel López,mx MEX,MF,Wilstermann,29,1994,15,9,863,9.6,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10
+Bernardo Loroño,bo BOL,MF,Always Ready,18,2006,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Percy Loza,bo BOL,MF,GV San José,26,1997,34,11,1291,14.3,3,5,8,3,0,0,5,0,0.21,0.35,0.56,0.21,0.56
+Carlos Lucumi,co COL,FW,Always Ready,23,2000,19,10,857,9.5,5,0,5,5,0,1,1,0,0.53,0.00,0.53,0.53,0.53
+Cristhian Machado,bo BOL,MF,Wilstermann,33,1990,27,21,1731,19.2,0,1,1,0,0,0,9,2,0.00,0.05,0.05,0.00,0.05
+Juan Magallanes,bo BOL,MF,FC Universitario,21,2003,21,9,912,10.1,2,0,2,2,0,0,0,0,0.20,0.00,0.20,0.20,0.20
+Dustin Maldonado,bo BOL,DF,Real Tomayapo,33,1990,10,1,246,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Gerson Malgor,bo BOL,MF,Real Santa Cruz,20,2003,19,5,646,7.2,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14
+Aldair Mamani,bo BOL,MF,GV San José,18,2005,14,8,775,8.6,1,2,3,1,0,0,0,0,0.12,0.23,0.35,0.12,0.35
+Josué Mamani,bo BOL,MF,Wilstermann,23,2000,28,18,1697,18.9,0,1,1,0,0,0,8,0,0.00,0.05,0.05,0.00,0.05
+Kevin Mamani,bo BOL,MF,Real Tomayapo,19,2004,20,13,1331,14.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Daniel Mancílla,bo BOL,DF,Nacional Potosí,32,1991,19,16,1344,14.9,1,1,2,1,0,0,6,0,0.07,0.07,0.13,0.07,0.13
+Jesús Manuel Sagredo,bo BOL,DF,Bolívar,29,1994,28,19,1884,20.9,1,0,1,1,0,0,11,0,0.05,0.00,0.05,0.05,0.05
+Rivaldo Maraz,bo BOL,MF,Real Tomayapo,21,2002,6,2,212,2.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+José María Carrasco,bo BOL,DF,Nacional Potosí,26,1997,4,4,289,3.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+José María Carrasco,bo BOL,DF,Real Tomayapo,26,1997,17,12,1065,11.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+José Martínes,bo BOL,FW,Always Ready,21,2002,29,23,1886,21.0,7,3,10,7,0,0,6,0,0.33,0.14,0.48,0.33,0.48
+Yesit Martínez,bo BOL,MF,Aurora,22,2002,20,12,1004,11.2,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09
+Yuri Martins,br BRA,MF,GV San José,25,1998,6,0,140,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Nicolas Masskooni,,MF,Guabirá,,,9,3,313,3.5,1,0,1,1,0,0,1,0,0.29,0.00,0.29,0.29,0.29
+Leandro Maygua,bo BOL,"DF,MF",Real Tomayapo,31,1992,12,5,600,6.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Alejandro Medina,bo BOL,FW,Indep Petrolero,27,1996,27,1,481,5.3,2,0,2,2,0,0,1,0,0.37,0.00,0.37,0.37,0.37
+Carlos Medina,bo BOL,DF,Always Ready,18,2005,3,3,202,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Diego Medina,bo BOL,DF,Always Ready,22,2002,34,30,2749,30.5,0,3,3,0,0,0,6,0,0.00,0.10,0.10,0.00,0.10
+Alejandro Meleán,bo BOL,"DF,MF",Guabirá,36,1987,30,21,1955,21.7,1,2,3,1,0,0,4,1,0.05,0.09,0.14,0.05,0.14
+Antonio Melgar,bo BOL,MF,Guabirá,29,1994,12,12,1057,11.7,7,1,8,4,3,4,3,0,0.60,0.09,0.68,0.34,0.43
+Antonio Melgar,bo BOL,MF,Bolívar,29,1994,25,17,1498,16.6,11,5,16,9,2,2,3,0,0.66,0.30,0.96,0.54,0.84
+Santiago Melgar,bo BOL,MF,Oriente Petrolero,21,2002,10,2,193,2.1,0,2,2,0,0,0,0,0,0.00,0.93,0.93,0.00,0.93
+Sebastián Melgar,bo BOL,FW,Indep Petrolero,22,2001,3,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Sebastián Melgar,bo BOL,FW,Guabirá,22,2001,10,5,467,5.2,1,0,1,1,0,0,2,0,0.19,0.00,0.19,0.19,0.19
+Roberto Melgar Simoes,bo BOL,,Real Santa Cruz,17,2006,3,0,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jhon Mena,bo BOL,MF,San Antonio Bulo Bulo,24,1999,24,19,1751,19.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Cesar Menacho,bo BOL,FW,Blooming,24,1999,36,33,2699,30.0,15,4,19,12,3,3,8,0,0.50,0.13,0.63,0.40,0.53
+Bruno Méndez,bo BOL,MF,Bolívar,17,2006,4,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Diego Méndez,bo BOL,GK,Royal Parí,33,1990,35,35,3150,35.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Esdras Mendoza,bo BOL,MF,FC Universitario,20,2003,19,17,1316,14.6,1,1,2,1,0,0,3,1,0.07,0.07,0.14,0.07,0.14
+Gabriel Mendoza,,MF,Indep Petrolero,,,4,1,158,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Gabriel Mendoza,,MF,Real Santa Cruz,,,21,19,1451,16.1,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06
+Gustavo Mendoza,bo BOL,FW,San Antonio Bulo Bulo,19,2004,30,29,2458,27.3,3,6,9,3,0,0,3,0,0.11,0.22,0.33,0.11,0.33
+Samyr Mendoza,,FW,FC Universitario,,,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alán Mercado,bo BOL,FW,Real Santa Cruz,27,1996,20,9,911,10.1,2,2,4,2,0,0,8,0,0.20,0.20,0.40,0.20,0.40
+Diego Mercado,,,San Antonio Bulo Bulo,,,2,0,30,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Juan Mercado,bo BOL,DF,FC Universitario,27,1997,31,13,1368,15.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Pablo Meza,py PAR,DF,San Antonio Bulo Bulo,27,1997,31,25,2202,24.5,1,2,3,0,1,2,13,2,0.04,0.08,0.12,0.00,0.08
+Ezequiel Michelli,ar ARG,DF,Aurora,33,1990,8,5,524,5.8,1,0,1,1,0,0,3,1,0.17,0.00,0.17,0.17,0.17
+Emerson Mineiro,br BRA,MF,Royal Parí,27,1996,17,11,1075,11.9,2,0,2,2,0,0,5,0,0.17,0.00,0.17,0.17,0.17
+Bruno Miranda,bo BOL,FW,The Strongest,25,1998,33,16,1470,16.3,12,2,14,10,2,3,3,0,0.73,0.12,0.86,0.61,0.73
+Ali Montaño,,FW,Oriente Petrolero,,,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Gabriel Montaño,bo BOL,MF,Aurora,21,2002,21,18,1504,16.7,8,1,9,8,0,0,6,0,0.48,0.06,0.54,0.48,0.54
+Ronaldo Monteiro,bo BOL,FW,FC Universitario,26,1998,10,1,276,3.1,1,1,2,1,0,0,2,0,0.33,0.33,0.65,0.33,0.65
+Leonardo Montenegro,bo BOL,DF,San Antonio Bulo Bulo,18,2005,10,3,362,4.0,1,0,1,1,0,0,5,0,0.25,0.00,0.25,0.25,0.25
+Ervin Montero,bo BOL,DF,Real Santa Cruz,23,2000,12,9,742,8.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00
+Ronny Montero,bo BOL,DF,Guabirá,32,1991,14,12,1126,12.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+David Morales,,MF,Indep Petrolero,,,5,1,221,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Gustavo Morales,bo BOL,FW,GV San José,19,2004,13,1,333,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Rodrigo Morales,ar ARG,MF,Guabirá,29,1994,28,16,1545,17.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Victor Morales,do DOM,FW,Royal Parí,21,2002,8,1,119,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Andrés Moreno,bo BOL,MF,Royal Parí,21,2002,30,22,1760,19.6,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00
+Brayan Moreno,co COL,FW,Real Santa Cruz,25,1998,20,9,1000,11.1,4,0,4,3,1,1,1,0,0.36,0.00,0.36,0.27,0.27
+Brayan Moreno,co COL,FW,Real Santa Cruz,24,1999,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jean Carlos López Moscoso,do DOM,MF,Real Santa Cruz,30,1993,10,10,736,8.2,1,1,2,1,0,0,2,1,0.12,0.12,0.24,0.12,0.24
+Saidt Mustafá,bo BOL,GK,Nacional Potosí,34,1989,33,33,2970,33.0,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00
+Ariel Nahuelpán,ar ARG,FW,Wilstermann,36,1987,22,11,1102,12.2,11,2,13,7,4,5,5,0,0.90,0.16,1.06,0.57,0.74
+Diego Navarro,bo BOL,FW,Indep Petrolero,31,1992,35,22,2026,22.5,3,0,3,3,0,0,10,0,0.13,0.00,0.13,0.13,0.13
+Santos Navarro,bo BOL,MF,Indep Petrolero,33,1990,3,2,142,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Santos Navarro,bo BOL,MF,Real Santa Cruz,33,1990,18,17,1390,15.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Andree Navia Rios,bo BOL,MF,Real Santa Cruz,23,2000,4,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Maximiliano Núñez,ar ARG,"FW,MF",FC Universitario,37,1986,41,31,2498,27.8,6,7,13,4,2,2,13,0,0.22,0.25,0.47,0.14,0.40
+Gustavo Olguín,bo BOL,DF,San Antonio Bulo Bulo,29,1994,36,34,3002,33.4,0,1,1,0,0,0,15,1,0.00,0.03,0.03,0.00,0.03
+Raúl Olivares,cl CHI,GK,FC Universitario,35,1988,10,10,855,9.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Ary Oliveira,bo BOL,MF,Always Ready,20,2003,4,2,171,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53
+Anderson Ordóñez,ec ECU,DF,Bolívar,30,1994,2,2,123,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Juan Orellana,bo BOL,DF,Real Tomayapo,26,1998,34,29,2572,28.6,1,1,2,1,0,0,11,1,0.03,0.03,0.07,0.03,0.07
+Renzo Orihuela,uy URU,DF,Bolívar,22,2001,29,27,2439,27.1,2,0,2,2,0,0,12,1,0.07,0.00,0.07,0.07,0.07
+Ricardo Orihuela,bo BOL,MF,FC Universitario,24,1999,7,2,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Nelson Orozco,bo BOL,FW,Guabirá,24,2000,10,1,262,2.9,0,1,1,0,0,0,0,0,0.00,0.34,0.34,0.00,0.34
+Nelson Orozco,bo BOL,FW,Real Tomayapo,24,2000,7,2,209,2.3,2,1,3,1,1,1,2,0,0.86,0.43,1.29,0.43,0.86
+Jorge Ortega,py PAR,"FW,MF",Real Tomayapo,32,1991,7,3,306,3.4,0,1,1,0,0,0,2,0,0.00,0.29,0.29,0.00,0.29
+Michael Ortega,co COL,MF,The Strongest,32,1991,32,27,2164,24.0,9,13,22,7,2,2,4,1,0.37,0.54,0.91,0.29,0.83
+Maximiliano Ortíz,bo BOL,DF,Nacional Potosí,34,1989,8,7,650,7.2,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00
+Miyhel Ortiz,bo BOL,MF,Nacional Potosí,22,2001,22,19,1661,18.5,1,3,4,1,0,0,5,1,0.05,0.16,0.22,0.05,0.22
+Mario Ovando,bo BOL,MF,Real Santa Cruz,38,1985,22,13,1238,13.8,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07
+Marcos Ovejero,ar ARG,FW,Always Ready,37,1986,4,0,92,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Alfio Oviedo,py PAR,FW,Bolívar,28,1995,23,16,1357,15.1,9,2,11,8,1,1,0,0,0.60,0.13,0.73,0.53,0.66
+Rai Pablo Lima,bo BOL,MF,Real Tomayapo,23,2000,19,13,1039,11.5,1,1,2,1,0,0,1,0,0.09,0.09,0.17,0.09,0.17
+Juan Pablo Rioja,bo BOL,MF,Real Tomayapo,35,1988,16,15,1278,14.2,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00
+Adrian Pacheco,bo BOL,MF,Wilstermann,18,2005,22,9,756,8.4,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12
+Hallysson Padilha,br BRA,DF,Real Tomayapo,29,1994,8,5,461,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Hallysson Padilha,br BRA,DF,Royal Parí,29,1994,21,19,1761,19.6,3,1,4,3,0,0,9,0,0.15,0.05,0.20,0.15,0.20
+Celin Padilla,bo BOL,DF,Royal Parí,19,2004,32,28,2322,25.8,2,3,5,2,0,0,6,0,0.08,0.12,0.19,0.08,0.19
+John Pajoy,co COL,"FW,MF",Real Santa Cruz,35,1988,9,9,654,7.3,0,3,3,0,0,0,5,1,0.00,0.41,0.41,0.00,0.41
+Cristián Panesso,co COL,FW,Always Ready,24,1999,10,1,261,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Emanuel Paniagua,bo BOL,FW,Always Ready,18,2005,10,0,134,1.5,1,0,1,1,0,0,0,0,0.67,0.00,0.67,0.67,0.67
+Erick Paniagua,do DOM,FW,Guabirá,24,1999,27,9,1183,13.1,3,2,5,3,0,1,5,0,0.23,0.15,0.38,0.23,0.38
+Moises Paniagua,bo BOL,MF,Always Ready,16,2007,27,19,1702,18.9,2,2,4,2,0,0,0,0,0.11,0.11,0.21,0.11,0.21
+Edwin Pardo,bo BOL,DF,Wilstermann,18,2006,9,6,571,6.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Asiel Paredes,bo BOL,FW,GV San José,19,2004,5,1,155,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Yohan Parra,do DOM,MF,Real Santa Cruz,23,2000,11,6,518,5.8,2,2,4,2,0,0,0,1,0.35,0.35,0.69,0.35,0.69
+Felipe Pasadore,ar ARG,FW,San Antonio Bulo Bulo,23,2000,18,17,1438,16.0,14,4,18,14,0,0,5,1,0.88,0.25,1.13,0.88,1.13
+Daniel Passira,br BRA,MF,San Antonio Bulo Bulo,27,1996,39,36,3130,34.8,23,7,30,20,3,6,13,1,0.66,0.20,0.86,0.58,0.78
+Asaf Patzi,bo BOL,MF,Indep Petrolero,19,2004,4,2,195,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luis Pavia,bo BOL,MF,Nacional Potosí,24,1999,21,11,874,9.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Ayrton Paz,bo BOL,DF,Oriente Petrolero,21,2002,5,4,229,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luiz Paz,bo BOL,DF,Bolívar,19,2004,36,22,2277,25.3,0,2,2,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08
+Santiago Paz,bo BOL,MF,GV San José,19,2004,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Adrián Peña,bo BOL,MF,Wilstermann,20,2003,12,5,433,4.8,1,0,1,1,0,0,3,0,0.21,0.00,0.21,0.21,0.21
+Israel Peña,bo BOL,GK,Royal Parí,25,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ricardo Pena,,,Real Santa Cruz,,,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Schneider Peña,bo BOL,FW,Royal Parí,19,2004,10,5,406,4.5,1,2,3,1,0,0,1,0,0.22,0.44,0.67,0.22,0.67
+José Peñarrieta,bo BOL,GK,San Antonio Bulo Bulo,35,1988,16,16,1440,16.0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00
+Gustavo Peredo,bo BOL,FW,Guabirá,23,2000,28,22,1797,20.0,5,6,11,5,0,0,6,0,0.25,0.30,0.55,0.25,0.55
+Julio César Pérez Peredo,bo BOL,DF,Royal Parí,32,1991,23,15,1346,15.0,1,0,1,1,0,0,4,1,0.07,0.00,0.07,0.07,0.07
+Jesús Peterito,bo BOL,MF,Indep Petrolero,20,2003,4,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Denis Pinto,bo BOL,FW,Blooming,28,1995,3,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Denis Pinto,bo BOL,FW,Real Tomayapo,28,1995,14,7,568,6.3,0,1,1,0,0,0,0,0,0.00,0.16,0.16,0.00,0.16
+Alejandro Polo,bo BOL,MF,GV San José,19,2004,1,1,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Daniel Porozo,ec ECU,"FW,MF",Indep Petrolero,26,1997,21,14,1300,14.4,8,4,12,7,1,1,1,0,0.55,0.28,0.83,0.48,0.76
+Milciades Portillo,py PAR,DF,Guabirá,31,1992,34,33,2909,32.3,1,0,1,1,0,1,1,0,0.03,0.00,0.03,0.03,0.03
+Bruno Poveda,bo BOL,GK,Wilstermann,20,2003,25,23,2143,23.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Samuel Pozo,bo BOL,MF,Real Santa Cruz,26,1997,27,26,2179,24.2,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00
+Carlos Preciado,co COL,FW,San Antonio Bulo Bulo,27,1996,17,17,1375,15.3,2,1,3,2,0,0,7,0,0.13,0.07,0.20,0.13,0.20
+Carlos Preciado,co COL,FW,Nacional Potosí,27,1996,24,13,1256,14.0,3,2,5,3,0,0,5,0,0.21,0.14,0.36,0.21,0.36
+Josué Prieto,bo BOL,DF,San Antonio Bulo Bulo,23,2000,16,7,686,7.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Martín Prost,ar ARG,FW,Nacional Potosí,34,1989,37,37,2765,30.7,12,4,16,12,0,1,6,0,0.39,0.13,0.52,0.39,0.52
+Fabricio Quaglio,bo BOL,FW,The Strongest,20,2003,22,18,1509,16.8,0,2,2,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12
+Yosimar Quiñónez,co COL,DF,Royal Parí,35,1988,33,33,2855,31.7,0,0,0,0,0,0,14,3,0.00,0.00,0.00,0.00,0.00
+Alejandro Quintana,ar ARG,FW,Guabirá,31,1992,33,28,2427,27.0,7,1,8,7,0,0,11,0,0.26,0.04,0.30,0.26,0.30
+Jairo Quinteros,bo BOL,DF,Bolívar,22,2001,8,6,442,4.9,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00
+Alvaro Quiroga,bo BOL,MF,The Strongest,28,1995,19,14,1424,15.8,2,1,3,2,0,0,4,0,0.13,0.06,0.19,0.13,0.19
+Miguel Quiroga,bo BOL,MF,Indep Petrolero,32,1991,24,18,1351,15.0,0,5,5,0,0,0,5,0,0.00,0.33,0.33,0.00,0.33
+Rafinha,bo BOL,MF,Blooming,32,1991,23,16,1386,15.4,2,6,8,1,1,1,4,0,0.13,0.39,0.52,0.06,0.45
+Denilzon Ramallo,bo BOL,FW,FC Universitario,25,1998,9,2,257,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Jhoni Ramallo,bo BOL,MF,GV San José,19,2004,18,16,1344,14.9,2,3,5,2,0,0,2,0,0.13,0.20,0.33,0.13,0.33
+Rodrigo Ramallo,bo BOL,"FW,MF",The Strongest,33,1990,22,11,1128,12.5,5,2,7,5,0,0,1,0,0.40,0.16,0.56,0.40,0.56
+Sebastián Ramírez,uy URU,DF,Oriente Petrolero,31,1992,19,15,1333,14.8,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00
+Jair Reinoso,bo BOL,FW,Aurora,38,1985,36,31,2744,30.5,14,5,19,14,0,2,4,1,0.46,0.16,0.62,0.46,0.62
+Luis René Barboza,bo BOL,DF,Aurora,30,1993,33,32,2839,31.5,1,1,2,1,0,0,14,0,0.03,0.03,0.06,0.03,0.06
+Edisson Restrepo,co COL,DF,Nacional Potosí,27,1996,37,37,3318,36.9,1,0,1,1,0,0,4,0,0.03,0.00,0.03,0.03,0.03
+Alexis Ribera,bo BOL,MF,Royal Parí,28,1995,29,17,1547,17.2,1,2,3,0,1,1,4,0,0.06,0.12,0.17,0.00,0.12
+Carlos Ribera,bo BOL,MF,FC Universitario,26,1997,20,12,1163,12.9,0,2,2,0,0,0,5,1,0.00,0.15,0.15,0.00,0.15
+Carlos Ribera,bo BOL,MF,San Antonio Bulo Bulo,26,1997,17,15,1249,13.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Oscar Ribera,bo BOL,DF,Real Santa Cruz,31,1992,8,4,425,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Marcos Riquelme,ar ARG,FW,Oriente Petrolero,34,1989,21,11,1267,14.1,7,1,8,7,0,0,8,0,0.50,0.07,0.57,0.50,0.57
+Josué Rivas,,MF,FC Universitario,,,7,5,484,5.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Roberto Rivas,bo BOL,GK,GV San José,38,1985,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Edwin Rivera Sifuentes,bo BOL,MF,San Antonio Bulo Bulo,34,1989,30,29,2061,22.9,1,1,2,1,0,0,19,2,0.04,0.04,0.09,0.04,0.09
+David Robles,py PAR,DF,Aurora,32,1991,35,32,2779,30.9,4,3,7,2,2,2,10,1,0.13,0.10,0.23,0.06,0.16
+Carlos Roca,bo BOL,DF,The Strongest,26,1997,15,10,750,8.3,0,1,1,0,0,0,5,0,0.00,0.12,0.12,0.00,0.12
+Dico Roca,bo BOL,DF,Guabirá,27,1996,13,7,671,7.5,0,1,1,0,0,0,0,0,0.00,0.13,0.13,0.00,0.13
+Jimmy Roca,bo BOL,GK,Real Santa Cruz,24,1999,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Raúl Rocabado,bo BOL,MF,FC Universitario,19,2004,26,24,1818,20.2,3,1,4,3,0,0,2,0,0.15,0.05,0.20,0.15,0.20
+Yomar Rocha,bo BOL,DF,Bolívar,20,2003,33,26,2352,26.1,3,6,9,3,0,0,5,0,0.11,0.23,0.34,0.11,0.34
+Victor Rodas,,DF,Oriente Petrolero,,,2,2,119,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Carlitos Rodriguez,bo BOL,DF,Wilstermann,19,2004,24,19,1665,18.5,3,0,3,3,0,0,5,0,0.16,0.00,0.16,0.16,0.16
+Darlin Rodriguez,,MF,Always Ready,,,20,17,1283,14.3,4,1,5,4,0,0,6,0,0.28,0.07,0.35,0.28,0.35
+Diego Rodriguez,bo BOL,GK,Guabirá,18,2005,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Dieguito Rodriguez,bo BOL,DF,Oriente Petrolero,20,2003,21,15,1442,16.0,1,2,3,1,0,0,5,0,0.06,0.12,0.19,0.06,0.19
+Edemir Rodríguez,bo BOL,DF,Oriente Petrolero,39,1984,4,3,199,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Enzo Rodriguez,bo BOL,GK,Always Ready,20,2003,5,3,355,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Hernán Rodríguez,bo BOL,DF,GV San José,27,1996,35,32,2488,27.6,4,5,9,4,0,0,5,2,0.14,0.18,0.33,0.14,0.33
+José Rodríguez,bo BOL,MF,San Antonio Bulo Bulo,24,1999,14,6,534,5.9,0,3,3,0,0,0,2,0,0.00,0.51,0.51,0.00,0.51
+Leandro Rodriguez,bo BOL,,Royal Parí,19,2004,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Patito Rodríguez,ar ARG,"FW,MF",Bolívar,33,1990,23,14,1363,15.1,4,5,9,4,0,0,6,0,0.26,0.33,0.59,0.26,0.59
+Francisco Rodriguez Zegada,bo BOL,DF,Wilstermann,29,1994,12,5,504,5.6,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00
+Daniel Rojas,bo BOL,MF,The Strongest,23,2000,8,4,338,3.8,1,0,1,1,0,0,0,0,0.27,0.00,0.27,0.27,0.27
+Daniel Rojas,bo BOL,MF,Oriente Petrolero,23,2000,12,9,838,9.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Jairo Rojas,bo BOL,FW,Always Ready,17,2006,4,0,48,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Javier Rojas,bo BOL,GK,Guabirá,28,1996,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jorge Rojas,bo BOL,DF,Nacional Potosí,30,1993,26,23,1808,20.1,6,8,14,6,0,0,2,0,0.30,0.40,0.70,0.30,0.70
+Jorge Rojas,bo BOL,DF,Oriente Petrolero,30,1993,6,3,218,2.4,1,0,1,1,0,0,2,0,0.41,0.00,0.41,0.41,0.41
+Junior Romay,bo BOL,FW,Nacional Potosí,29,1994,2,0,49,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+César Romero,bo BOL,DF,Blooming,22,2001,33,28,2528,28.1,1,2,3,1,0,0,11,0,0.04,0.07,0.11,0.04,0.11
+Diego Romero,bo BOL,,Royal Parí,18,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Eynar Romero,bo BOL,MF,The Strongest,19,2004,5,4,348,3.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Matías Romero,bo BOL,FW,Indep Petrolero,21,2002,13,5,488,5.4,2,2,4,2,0,0,1,0,0.37,0.37,0.74,0.37,0.74
+Marcos Rosales,bo BOL,MF,San Antonio Bulo Bulo,23,2000,4,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luis Ruano,ec ECU,DF,Real Santa Cruz,32,1991,30,29,2546,28.3,2,1,3,2,0,0,10,1,0.07,0.04,0.11,0.07,0.11
+Saul Rueda,,,Real Santa Cruz,,,14,10,908,10.1,0,1,1,0,0,0,3,0,0.00,0.10,0.10,0.00,0.10
+Dilan Saavedra,bo BOL,,The Strongest,17,2006,9,5,510,5.7,0,1,1,0,0,0,2,0,0.00,0.18,0.18,0.00,0.18
+Erwin Saavedra,bo BOL,MF,Bolívar,27,1996,9,6,536,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+José Sagredo,bo BOL,DF,Bolívar,29,1994,31,27,2573,28.6,1,2,3,1,0,0,10,2,0.03,0.07,0.10,0.03,0.10
+Axel Salazar,bo BOL,FW,Always Ready,18,2005,5,2,217,2.4,1,1,2,0,1,1,0,0,0.41,0.41,0.83,0.00,0.41
+Marcos Salazar,bo BOL,MF,Always Ready,19,2004,21,12,887,9.9,1,0,1,1,0,0,8,0,0.10,0.00,0.10,0.10,0.10
+Fernando Saldías,bo BOL,FW,Real Santa Cruz,26,1997,12,2,285,3.2,1,0,1,1,0,0,0,0,0.32,0.00,0.32,0.32,0.32
+Gustavo Salvatierra,bo BOL,GK,Indep Petrolero,31,1992,14,14,1260,14.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Kevin Salvatierra,bo BOL,MF,Oriente Petrolero,22,2001,21,15,1274,14.2,0,1,1,0,0,0,0,0,0.00,0.07,0.07,0.00,0.07
+Amílcar Sánchez,bo BOL,MF,Aurora,33,1991,15,3,432,4.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Ángel Sánchez,es ESP,FW,Real Santa Cruz,25,1998,12,8,816,9.1,3,0,3,2,1,1,2,0,0.33,0.00,0.33,0.22,0.22
+Erwin Sánchez,bo BOL,FW,Oriente Petrolero,31,1992,29,17,1472,16.4,0,2,2,0,0,0,8,0,0.00,0.12,0.12,0.00,0.12
+Héctor Sánchez,bo BOL,FW,GV San José,26,1997,37,28,2290,25.4,7,6,13,4,3,4,5,0,0.28,0.24,0.51,0.16,0.39
+Huberth Sánchez,co COL,DF,San Antonio Bulo Bulo,26,1997,29,23,2076,23.1,3,1,4,3,0,0,10,1,0.13,0.04,0.17,0.13,0.17
+Lucas Sanchez,bo BOL,MF,Always Ready,17,2006,4,0,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ricardo Sandoval,bo BOL,MF,Oriente Petrolero,22,2001,2,0,61,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Samuel Sandoval,bo BOL,MF,Real Tomayapo,20,2003,12,1,237,2.6,1,0,1,1,0,0,0,0,0.38,0.00,0.38,0.38,0.38
+Diefri Sandy,do DOM,FW,Royal Parí,19,2004,8,3,417,4.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Juan Sandy,bo BOL,GK,GV San José,22,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Fernando Saucedo,bo BOL,MF,Bolívar,33,1990,31,26,2126,23.6,7,3,10,7,0,0,3,0,0.30,0.13,0.42,0.30,0.42
+Widen Saucedo,bo BOL,DF,Wilstermann,26,1997,19,15,1473,16.4,0,4,4,0,0,0,8,0,0.00,0.24,0.24,0.00,0.24
+Bruno Sávio,br BRA,"FW,MF",Bolívar,29,1994,22,18,1649,18.3,7,11,18,6,1,1,9,1,0.38,0.60,0.98,0.33,0.93
+José Segovia,bo BOL,FW,Aurora,20,2003,2,2,99,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Augusto Seimandi,ar ARG,DF,GV San José,28,1995,23,13,1064,11.8,1,1,2,1,0,0,3,2,0.08,0.08,0.17,0.08,0.17
+Serginho,br BRA,"FW,MF",Aurora,39,1984,27,16,1305,14.5,6,5,11,5,1,1,8,1,0.41,0.34,0.76,0.34,0.69
+Lucas Sergio,,,Indep Petrolero,,,2,2,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Luis Serrano,bo BOL,MF,GV San José,25,1998,7,0,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Saúl Severiche,bo BOL,DF,Blooming,21,2002,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Omar Siles,bo BOL,MF,Blooming,31,1992,29,23,1747,19.4,1,0,1,1,0,0,7,3,0.05,0.00,0.05,0.05,0.05
+Bruno Silva,br BRA,FW,Royal Parí,32,1991,7,2,252,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jefferson da Silva,br BRA,FW,Wilstermann,34,1989,20,5,760,8.4,3,0,3,3,0,0,1,0,0.36,0.00,0.36,0.36,0.36
+Thiago Ribeiro da Silva,br BRA,MF,Royal Parí,39,1985,32,32,2853,31.7,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00
+Matías Silvero,,FW,Aurora,,,3,0,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Renny Simisterra,ec ECU,MF,Aurora,26,1997,26,15,1267,14.1,3,1,4,3,0,1,2,0,0.21,0.07,0.28,0.21,0.28
+Brian Sobrero,ar ARG,MF,GV San José,25,1998,35,29,2499,27.8,16,7,23,16,0,0,5,0,0.58,0.25,0.83,0.58,0.83
+Wilfredo Soleto,bo BOL,MF,Indep Petrolero,27,1996,36,34,2851,31.7,0,0,0,0,0,0,11,0,0.00,0.00,0.00,0.00,0.00
+Mateo Soliz,bo BOL,MF,Real Santa Cruz,21,2002,2,1,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Marcelo Somoya,bo BOL,MF,The Strongest,19,2004,4,1,163,1.8,1,0,1,1,0,0,0,0,0.55,0.00,0.55,0.55,0.55
+Gabriel Sotomayor,bo BOL,FW,The Strongest,24,1999,18,7,794,8.8,6,4,10,6,0,0,4,1,0.68,0.45,1.13,0.68,1.13
+Edgar Soza,bo BOL,,Royal Parí,20,2004,2,2,170,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Richard Spenhay,bo BOL,MF,Blooming,26,1997,30,8,1122,12.5,0,0,0,0,0,0,10,1,0.00,0.00,0.00,0.00,0.00
+Karl Stivince,ga GAB,MF,Always Ready,26,1997,3,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Fabricio Suárez,bo BOL,GK,Royal Parí,20,2003,7,2,182,2.0,1,0,1,1,0,0,1,0,0.49,0.00,0.49,0.49,0.49
+Hector Suarez,bo BOL,MF,Blooming,19,2004,14,9,760,8.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Marcelo Suarez,bo BOL,DF,Always Ready,22,2001,32,30,2722,30.2,0,1,1,0,0,0,14,2,0.00,0.03,0.03,0.00,0.03
+Ricardo Suárez,bo BOL,DF,Real Santa Cruz,33,1991,31,27,2325,25.8,1,0,1,1,0,0,10,0,0.04,0.00,0.04,0.04,0.04
+Yosser Suarez,bo BOL,MF,Indep Petrolero,19,2004,17,10,1135,12.6,0,1,1,0,0,0,4,1,0.00,0.08,0.08,0.00,0.08
+Fran Supayabe,bo BOL,DF,Guabirá,28,1996,26,23,1985,22.1,1,0,1,1,0,0,7,0,0.05,0.00,0.05,0.05,0.05
+Enrique Taborga,bo BOL,DF,Always Ready,21,2002,26,18,1511,16.8,0,2,2,0,0,0,4,0,0.00,0.12,0.12,0.00,0.12
+Yojhani Taborga,bo BOL,DF,GV San José,27,1996,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Yonathan Taborga,bo BOL,MF,GV San José,27,1996,2,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Wesley Tanque,br BRA,MF,Always Ready,27,1996,10,7,672,7.5,5,0,5,5,0,0,2,0,0.67,0.00,0.67,0.67,0.67
+Rubén Tarasco,ar ARG,FW,GV San José,29,1995,8,7,461,5.1,2,0,2,2,0,0,0,0,0.39,0.00,0.39,0.39,0.39
+Makerlo Tellez,bo BOL,MF,Wilstermann,21,2002,14,9,768,8.5,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12
+Adalid Terrazas,bo BOL,MF,Always Ready,23,2000,18,13,1282,14.2,0,5,5,0,0,0,5,1,0.00,0.35,0.35,0.00,0.35
+Alan Terrazas,ar ARG,FW,Aurora,24,1999,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Renan Terrazas Soliz,bo BOL,MF,Always Ready,17,2006,5,1,115,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Thomaz,br BRA,MF,Indep Petrolero,37,1986,36,28,2523,28.0,5,11,16,4,1,2,12,2,0.18,0.39,0.57,0.14,0.54
+Tommy Tobar,co COL,FW,FC Universitario,37,1986,40,39,3429,38.1,19,1,20,14,5,6,12,1,0.50,0.03,0.52,0.37,0.39
+Robson Tomé,bo BOL,MF,Always Ready,21,2002,36,32,2869,31.9,11,4,15,8,3,3,4,1,0.35,0.13,0.47,0.25,0.38
+Mirko Tomianovic,bo BOL,MF,Real Tomayapo,22,2001,31,10,1435,15.9,1,1,2,1,0,0,5,0,0.06,0.06,0.13,0.06,0.13
+Saúl Torres,bo BOL,DF,GV San José,33,1990,37,37,3193,35.5,4,4,8,4,0,0,14,1,0.11,0.11,0.23,0.11,0.23
+Andrés Torrico,bo BOL,MF,Nacional Potosí,19,2004,40,38,3510,39.0,1,2,3,1,0,0,3,0,0.03,0.05,0.08,0.03,0.08
+Dario Torrico,bo BOL,MF,Aurora,23,2000,29,10,1189,13.2,3,2,5,3,0,0,3,0,0.23,0.15,0.38,0.23,0.38
+Didí Torrico,bo BOL,MF,Aurora,35,1988,31,29,2426,27.0,1,3,4,1,0,0,9,1,0.04,0.11,0.15,0.04,0.15
+Jair Torrico,bo BOL,DF,Aurora,37,1986,35,34,2909,32.3,1,8,9,1,0,0,5,0,0.03,0.25,0.28,0.03,0.28
+Anderson Treminio,ni NCA,FW,Real Santa Cruz,26,1997,9,5,437,4.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Enrique Triverio,ar ARG,FW,The Strongest,35,1988,32,21,2004,22.3,9,6,15,7,2,2,8,0,0.40,0.27,0.67,0.31,0.58
+Enrique Troncoso,bo BOL,MF,Aurora,24,1999,8,7,672,7.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Bismark Ubah,ng NGA,FW,Royal Parí,30,1994,12,5,551,6.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Braulio Uraezaña,bo BOL,GK,Blooming,28,1995,35,35,3134,34.8,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00
+Cristian Urdininea,bo BOL,MF,Indep Petrolero,31,1993,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Diego Ureña,,,GV San José,,,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luciano Ursino,bo BOL,MF,The Strongest,35,1988,32,23,2002,22.2,4,3,7,3,1,1,11,1,0.18,0.13,0.31,0.13,0.27
+Javier Uzeda,bo BOL,FW,Bolívar,21,2002,8,3,367,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Angel Vaca,bo BOL,MF,FC Universitario,22,2002,4,0,43,0.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Angel Vaca,bo BOL,MF,Guabirá,22,2002,3,1,132,1.5,0,1,1,0,0,0,1,0,0.00,0.68,0.68,0.00,0.68
+Edward Vaca,bo BOL,MF,Real Santa Cruz,24,1999,18,10,835,9.3,2,0,2,2,0,0,2,1,0.22,0.00,0.22,0.22,0.22
+Ervin Vaca,bo BOL,MF,Bolívar,19,2004,29,23,1836,20.4,2,2,4,2,0,0,8,0,0.10,0.10,0.20,0.10,0.20
+Gonzalo Vaca,,MF,GV San José,,,27,21,2025,22.5,0,3,3,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13
+Henry Vaca,bo BOL,MF,Bolívar,26,1998,19,9,911,10.1,3,0,3,3,0,0,3,0,0.30,0.00,0.30,0.30,0.30
+Oscar Vaca,bo BOL,MF,Aurora,35,1988,16,11,946,10.5,0,1,1,0,0,0,3,1,0.00,0.10,0.10,0.00,0.10
+Pablo Vaca,bo BOL,MF,Always Ready,21,2002,31,28,2376,26.4,0,1,1,0,0,0,5,0,0.00,0.04,0.04,0.00,0.04
+Ramiro Vaca,bo BOL,MF,Bolívar,24,1999,37,30,2691,29.9,9,16,25,9,0,0,9,0,0.30,0.54,0.84,0.30,0.84
+Denilson Valda,bo BOL,DF,Indep Petrolero,26,1997,28,14,1473,16.4,0,0,0,0,0,0,8,2,0.00,0.00,0.00,0.00,0.00
+Yerco Vallejos,bo BOL,FW,FC Universitario,28,1995,2,1,96,1.1,1,0,1,1,0,0,1,0,0.94,0.00,0.94,0.94,0.94
+Yerco Vallejos,bo BOL,FW,Aurora,28,1995,2,1,112,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Rodrigo Vargas Castillo,bo BOL,FW,GV San José,29,1994,23,11,919,10.2,6,0,6,6,0,0,6,1,0.59,0.00,0.59,0.59,0.59
+Diego Vargas,,DF,Indep Petrolero,,,30,27,2354,26.2,1,1,2,1,0,0,4,0,0.04,0.04,0.08,0.04,0.08
+Diego Vargas,,MF,Indep Petrolero,,,8,8,750,8.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Fabio Vargas,bo BOL,MF,Oriente Petrolero,19,2004,19,13,1213,13.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Javier Vargas,bo BOL,MF,San Antonio Bulo Bulo,21,2003,12,2,397,4.4,0,1,1,0,0,0,2,0,0.00,0.23,0.23,0.00,0.23
+Luis Vargas,bo BOL,MF,Wilstermann,28,1996,9,3,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Luis Vargas,bo BOL,MF,Oriente Petrolero,28,1996,10,2,325,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Stiven Vargas,bo BOL,MF,GV San José,21,2002,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+V. Vargas,bo BOL,FW,FC Universitario,19,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Edilson Vasquez,bo BOL,GK,San Antonio Bulo Bulo,21,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ronaldo Vásquez,do DOM,DF,Guabirá,24,1999,28,24,1772,19.7,4,5,9,4,0,0,6,2,0.20,0.25,0.46,0.20,0.46
+Andy Jhoel Velasquez Velasco,bo BOL,,Wilstermann,16,2007,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Leonardo Velasco,bo BOL,MF,Royal Parí,20,2003,11,4,414,4.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Pablo Velasco,ar ARG,MF,San Antonio Bulo Bulo,29,1994,6,4,359,4.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Emerson Velasquez,bo BOL,MF,GV San José,24,1999,3,0,23,0.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00
+Emerson Velasquez,bo BOL,MF,The Strongest,24,1999,1,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jesus Velasquez,bo BOL,,Bolívar,17,2006,3,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jhon Velásquez,bo BOL,MF,Bolívar,20,2003,27,12,1173,13.0,4,2,6,4,0,0,0,0,0.31,0.15,0.46,0.31,0.46
+Julián Velázquez,ar ARG,DF,Wilstermann,33,1990,6,6,450,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Carlos Ventura,do DOM,FW,Oriente Petrolero,26,1997,10,9,787,8.7,5,2,7,5,0,0,0,0,0.57,0.23,0.80,0.57,0.80
+Jhunior Vera,bo BOL,GK,San Antonio Bulo Bulo,20,2003,27,27,2430,27.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Iván Vidaurre,bo BOL,MF,FC Universitario,36,1987,7,5,351,3.9,0,1,1,0,0,0,0,1,0.00,0.26,0.26,0.00,0.26
+Julio Vila,ar ARG,DF,FC Universitario,28,1996,33,33,2954,32.8,2,1,3,2,0,0,15,1,0.06,0.03,0.09,0.06,0.09
+Jaime Villamil,bo BOL,DF,Real Tomayapo,31,1992,24,18,1654,18.4,1,1,2,1,0,0,4,0,0.05,0.05,0.11,0.05,0.11
+Sergio Villamil,bo BOL,MF,Real Tomayapo,29,1994,32,32,2456,27.3,0,1,1,0,0,0,12,0,0.00,0.04,0.04,0.00,0.04
+Moisés Villarroel Angulo,bo BOL,MF,Blooming,25,1998,25,21,1709,19.0,4,2,6,3,1,1,5,0,0.21,0.11,0.32,0.16,0.26
+Moisés Villarroel Angulo,bo BOL,MF,Guabirá,25,1998,10,10,826,9.2,2,2,4,2,0,0,3,0,0.22,0.22,0.44,0.22,0.44
+Nicolas Villarroel Galindo,bo BOL,,Wilstermann,16,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Miguel Villarroel,bo BOL,FW,Oriente Petrolero,21,2003,19,10,1001,11.1,3,3,6,3,0,0,0,1,0.27,0.27,0.54,0.27,0.54
+Miguel Villarroel,bo BOL,FW,Bolívar,21,2003,3,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Sebastian Villarroel,bo BOL,,San Antonio Bulo Bulo,16,2007,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jefferson Virreira,bo BOL,DF,San Antonio Bulo Bulo,27,1997,7,3,257,2.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00
+Sebastián Viveros,,MF,San Antonio Bulo Bulo,,,20,9,992,11.0,1,1,2,1,0,0,7,0,0.09,0.09,0.18,0.09,0.18
+Guillermo Vizcarra,bo BOL,GK,The Strongest,30,1993,38,38,3413,37.9,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00
+Juan Vogliotti,ar ARG,FW,Guabirá,38,1985,2,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Diego Wayar,bo BOL,MF,The Strongest,30,1993,26,18,1503,16.7,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06
+Jean Wichekar,ht HAI,MF,Real Santa Cruz,23,2000,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alejandro William Torrez,bo BOL,GK,Oriente Petrolero,25,1998,25,25,2250,25.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00
+Lider Yanarico,bo BOL,DF,GV San José,17,2006,27,23,2083,23.1,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04
+Yefferson Yanique,bo BOL,FW,Royal Parí,18,2005,2,1,94,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Cesar Yucra,bo BOL,MF,San Antonio Bulo Bulo,20,2003,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Diego Zamora,bo BOL,GK,Real Santa Cruz,30,1993,27,27,2430,27.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Fabio Zamora,bo BOL,MF,Always Ready,17,2006,7,3,291,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Leandro Zazpe,uy URU,"DF,MF",Guabirá,29,1994,29,27,2365,26.3,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04
+Luis Zeballos,bo BOL,FW,Aurora,21,2002,4,1,107,1.2,0,1,1,0,0,0,1,0,0.00,0.84,0.84,0.00,0.84
+Alexandro Zenteno,bo BOL,MF,Always Ready,21,2003,4,3,208,2.3,0,1,1,0,0,0,0,0,0.00,0.43,0.43,0.00,0.43
+Alexander Zurita,ar ARG,DF,Royal Parí,26,1997,28,14,1389,15.4,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06
