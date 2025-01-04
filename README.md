@@ -17,6 +17,15 @@ __What can you get from shots_fotmob.ipynb?__
 
 ![shotmap](https://github.com/axelbol/football-analysis/blob/main/images/image.png?raw=true)
 
+__What can you get from shots_fotmob.ipynb?__
+
+- Shots
+- Goal & No Goal
+- Penalty goals
+- Own Goal
+- xG
+- Shot map
+
 ## License
 
 Feel free to use and re-use any way you want.
