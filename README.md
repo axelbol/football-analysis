@@ -17,9 +17,9 @@ __What can you get from shots_fotmob.ipynb?__
 
 ![shotmap](https://github.com/axelbol/football-analysis/blob/main/images/image.png?raw=true)
 
-__What can you get from shots_fotmob.ipynb?__
+__What can you get from bol24.ipynb?__
 
-- Shots
+- Get players under 20
 - Goal & No Goal
 - Penalty goals
 - Own Goal
