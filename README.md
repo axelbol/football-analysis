@@ -25,6 +25,14 @@ __What can you get from bol24.ipynb?__
   - By squad and nation mean age
 - Get players under 20
   - Squads with most goals
+    - Get specific player of that squad
+  - Squad with most assists
+  - Squad with most minutes
+    - Heatmap
+  - Get player with most minutes played
+    - Bar chart
+- Get player sub23
+  -
 - Goal & No Goal
 - Penalty goals
 - Own Goal
