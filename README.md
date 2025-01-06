@@ -19,7 +19,12 @@ __What can you get from shots_fotmob.ipynb?__
 
 __What can you get from bol24.ipynb?__
 
+- Get all players that played in Bolivia season 2024 (613)
+- Group By
+  - By squad mean age
+  - By squad and nation mean age
 - Get players under 20
+  - Squads with most goals
 - Goal & No Goal
 - Penalty goals
 - Own Goal
