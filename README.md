@@ -41,11 +41,10 @@ __What can you get from bol24.ipynb?__
       - Bar chart
     - Get GK
       - Bar chart
-- Goal & No Goal
-- Penalty goals
-- Own Goal
-- xG
-- Shot map
+- Sort by age & goals
+  - Bar chart
+- Top BO scorers
+  - Bar chart
 
 ## License
 
