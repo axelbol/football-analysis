@@ -45,6 +45,7 @@ __What can you get from bol24.ipynb?__
   - Bar chart
 - Top BO scorers
   - Bar chart
+- DF by specific team
 
 ## License
 
